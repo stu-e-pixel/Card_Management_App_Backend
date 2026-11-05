@@ -1,0 +1,49 @@
+
+{
+  "swaggerDefinition": {
+    "swagger": "2.0",
+    "info": {
+      "title": "webskitters class",
+      "version": "1.0.0",
+      "description": "Student API documentation created by webskitters",
+      "contact": {
+        "name": "Raju kayal"
+      }
+    },
+    "servers": [
+      "http://localhost:3037",
+      "https://webskitters.com"
+    ],
+    "tags": [
+      {
+        "name": "Card",
+        "description": "Card CRUD API"
+      },
+      {
+        "name": "Auth",
+        "description": "Auth API"
+      }
+    ],
+    "securityDefinitions": {
+      "bearerAuth": {
+        "type": "apiKey",
+        "in": "header",
+        "name": "Authorization",
+        "description": "Enter: Bearer your_access_token"
+      }
+    },
+    "security": [
+      {
+        "bearerAuth": []
+      }
+    ],
+    "schemes": [
+      "https",
+      "http"
+    ]
+  },
+  "apis": [
+    "./src/app.js",
+    "./src/router/apis/*.js"
+  ]
+}
