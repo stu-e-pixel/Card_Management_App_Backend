@@ -1,5 +1,7 @@
+
 module.exports = {
     testEnvironment: "node",
+
     verbose: true,
 
     testMatch: [
@@ -7,6 +9,13 @@ module.exports = {
         "<rootDir>/src/tests/card.test.js"
     ],
 
+    setupFilesAfterEnv: [
+        "<rootDir>/src/tests/setup.js"
+    ],
+
     collectCoverage: true,
-    coverageDirectory: "coverage"
+
+    coverageDirectory: "coverage",
+
+    forceExit: false
 };

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1795011855892" clover="3.2.0">
-  <project timestamp="1795011855892" name="All files">
-    <metrics statements="715" coveredstatements="483" conditionals="213" coveredconditionals="88" methods="55" coveredmethods="41" elements="983" coveredelements="612" complexity="0" loc="715" ncloc="715" packages="11" files="29" classes="29"/>
+<coverage generated="1795013538165" clover="3.2.0">
+  <project timestamp="1795013538165" name="All files">
+    <metrics statements="706" coveredstatements="479" conditionals="213" coveredconditionals="88" methods="54" coveredmethods="41" elements="973" coveredelements="608" complexity="0" loc="706" ncloc="706" packages="11" files="28" classes="28"/>
     <package name="src">
       <metrics statements="27" coveredstatements="27" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       <file name="app.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\app.js">
@@ -718,7 +718,7 @@
       </file>
     </package>
     <package name="src.utils">
-      <metrics statements="66" coveredstatements="48" conditionals="9" coveredconditionals="5" methods="9" coveredmethods="6"/>
+      <metrics statements="57" coveredstatements="44" conditionals="9" coveredconditionals="5" methods="8" coveredmethods="6"/>
       <file name="RateLimit.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\utils\RateLimit.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="2" type="stmt"/>
@@ -788,18 +788,6 @@
         <line num="53" count="0" type="stmt"/>
         <line num="54" count="0" type="stmt"/>
         <line num="58" count="2" type="stmt"/>
-      </file>
-      <file name="sendEmailOtp.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\utils\sendEmailOtp.js">
-        <metrics statements="9" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="1" count="2" type="stmt"/>
-        <line num="2" count="2" type="stmt"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="5" count="0" type="stmt"/>
-        <line num="6" count="0" type="stmt"/>
-        <line num="7" count="0" type="stmt"/>
-        <line num="9" count="0" type="stmt"/>
-        <line num="19" count="0" type="stmt"/>
-        <line num="22" count="2" type="stmt"/>
       </file>
       <file name="statuscode.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\utils\statuscode.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
