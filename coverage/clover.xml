@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1794986473662" clover="3.2.0">
+  <project timestamp="1794986473662" name="All files">
+    <metrics statements="715" coveredstatements="402" conditionals="213" coveredconditionals="64" methods="55" coveredmethods="31" elements="983" coveredelements="497" complexity="0" loc="715" ncloc="715" packages="11" files="29" classes="29"/>
+    <package name="src">
+      <metrics statements="27" coveredstatements="27" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="app.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\app.js">
+        <metrics statements="27" coveredstatements="27" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.config">
+      <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="cloudinary.config.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\config\cloudinary.config.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+      </file>
+      <file name="email.config.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\config\email.config.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+      </file>
+      <file name="redis.config.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\config\redis.config.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.controller">
+      <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="HomeController.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\controller\HomeController.js">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.controller.Apis">
+      <metrics statements="417" coveredstatements="157" conditionals="176" coveredconditionals="47" methods="25" coveredmethods="11"/>
+      <file name="AuthController.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\controller\Apis\AuthController.js">
+        <metrics statements="302" coveredstatements="151" conditionals="128" coveredconditionals="47" methods="16" coveredmethods="11"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="72" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="79" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="91" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="92" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="101" count="0" type="stmt"/>
+        <line num="103" count="0" type="stmt"/>
+        <line num="104" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="106" count="0" type="stmt"/>
+        <line num="112" count="0" type="stmt"/>
+        <line num="113" count="0" type="stmt"/>
+        <line num="114" count="0" type="stmt"/>
+        <line num="118" count="0" type="stmt"/>
+        <line num="120" count="0" type="stmt"/>
+        <line num="125" count="0" type="stmt"/>
+        <line num="131" count="0" type="stmt"/>
+        <line num="139" count="0" type="stmt"/>
+        <line num="140" count="0" type="stmt"/>
+        <line num="142" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="143" count="0" type="stmt"/>
+        <line num="149" count="0" type="stmt"/>
+        <line num="151" count="0" type="stmt"/>
+        <line num="155" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="156" count="0" type="stmt"/>
+        <line num="162" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="163" count="0" type="stmt"/>
+        <line num="169" count="0" type="stmt"/>
+        <line num="171" count="0" type="stmt"/>
+        <line num="173" count="0" type="stmt"/>
+        <line num="182" count="0" type="stmt"/>
+        <line num="184" count="0" type="stmt"/>
+        <line num="193" count="65" type="stmt"/>
+        <line num="194" count="65" type="stmt"/>
+        <line num="196" count="65" type="stmt"/>
+        <line num="201" count="65" type="stmt"/>
+        <line num="206" count="65" type="stmt"/>
+        <line num="211" count="65" type="stmt"/>
+        <line num="218" count="65" type="stmt"/>
+        <line num="223" count="65" type="stmt"/>
+        <line num="228" count="65" type="stmt"/>
+        <line num="242" count="0" type="stmt"/>
+        <line num="249" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="257" count="2" type="stmt"/>
+        <line num="258" count="2" type="stmt"/>
+        <line num="260" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="261" count="0" type="stmt"/>
+        <line num="267" count="2" type="stmt"/>
+        <line num="269" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="270" count="0" type="stmt"/>
+        <line num="276" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="277" count="0" type="stmt"/>
+        <line num="283" count="2" type="stmt"/>
+        <line num="285" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="286" count="0" type="stmt"/>
+        <line num="292" count="2" type="stmt"/>
+        <line num="296" count="2" type="stmt"/>
+        <line num="298" count="2" type="stmt"/>
+        <line num="304" count="2" type="stmt"/>
+        <line num="310" count="2" type="stmt"/>
+        <line num="315" count="0" type="stmt"/>
+        <line num="317" count="0" type="stmt"/>
+        <line num="326" count="2" type="stmt"/>
+        <line num="327" count="2" type="stmt"/>
+        <line num="328" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="329" count="0" type="stmt"/>
+        <line num="335" count="2" type="stmt"/>
+        <line num="336" count="2" type="stmt"/>
+        <line num="338" count="2" type="stmt"/>
+        <line num="339" count="2" type="stmt"/>
+        <line num="341" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="342" count="0" type="stmt"/>
+        <line num="348" count="2" type="stmt"/>
+        <line num="349" count="2" type="stmt"/>
+        <line num="351" count="2" type="stmt"/>
+        <line num="353" count="2" type="stmt"/>
+        <line num="355" count="2" type="stmt"/>
+        <line num="362" count="2" type="stmt"/>
+        <line num="367" count="0" type="stmt"/>
+        <line num="375" count="2" type="stmt"/>
+        <line num="376" count="2" type="stmt"/>
+        <line num="378" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="379" count="0" type="stmt"/>
+        <line num="385" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="386" count="0" type="stmt"/>
+        <line num="392" count="2" type="stmt"/>
+        <line num="398" count="0" type="stmt"/>
+        <line num="405" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="413" count="4" type="stmt"/>
+        <line num="414" count="4" type="stmt"/>
+        <line num="416" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="417" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="419" count="4" type="stmt"/>
+        <line num="420" count="4" type="stmt"/>
+        <line num="425" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="426" count="2" type="stmt"/>
+        <line num="429" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="430" count="2" type="stmt"/>
+        <line num="434" count="4" type="stmt"/>
+        <line num="441" count="4" type="stmt"/>
+        <line num="443" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="444" count="0" type="stmt"/>
+        <line num="452" count="4" type="stmt"/>
+        <line num="454" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="455" count="0" type="stmt"/>
+        <line num="461" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="462" count="0" type="stmt"/>
+        <line num="469" count="4" type="stmt"/>
+        <line num="496" count="4" type="stmt"/>
+        <line num="498" count="4" type="stmt"/>
+        <line num="499" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="502" count="4" type="stmt"/>
+        <line num="511" count="4" type="stmt"/>
+        <line num="513" count="4" type="stmt"/>
+        <line num="519" count="0" type="stmt"/>
+        <line num="524" count="0" type="stmt"/>
+        <line num="532" count="0" type="stmt"/>
+        <line num="533" count="0" type="stmt"/>
+        <line num="535" count="0" type="stmt"/>
+        <line num="537" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="538" count="0" type="stmt"/>
+        <line num="544" count="0" type="stmt"/>
+        <line num="546" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="547" count="0" type="stmt"/>
+        <line num="553" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="554" count="0" type="stmt"/>
+        <line num="560" count="0" type="stmt"/>
+        <line num="562" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="563" count="0" type="stmt"/>
+        <line num="569" count="0" type="stmt"/>
+        <line num="571" count="0" type="stmt"/>
+        <line num="575" count="0" type="stmt"/>
+        <line num="577" count="0" type="stmt"/>
+        <line num="579" count="0" type="stmt"/>
+        <line num="581" count="0" type="stmt"/>
+        <line num="620" count="0" type="stmt"/>
+        <line num="621" count="0" type="stmt"/>
+        <line num="622" count="0" type="stmt"/>
+        <line num="624" count="0" type="stmt"/>
+        <line num="629" count="0" type="stmt"/>
+        <line num="637" count="0" type="stmt"/>
+        <line num="638" count="0" type="stmt"/>
+        <line num="639" count="0" type="stmt"/>
+        <line num="641" count="0" type="stmt"/>
+        <line num="643" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="644" count="0" type="stmt"/>
+        <line num="650" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="651" count="0" type="stmt"/>
+        <line num="657" count="0" type="stmt"/>
+        <line num="658" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="659" count="0" type="stmt"/>
+        <line num="665" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="666" count="0" type="stmt"/>
+        <line num="672" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="673" count="0" type="stmt"/>
+        <line num="679" count="0" type="stmt"/>
+        <line num="680" count="0" type="stmt"/>
+        <line num="682" count="0" type="stmt"/>
+        <line num="686" count="0" type="stmt"/>
+        <line num="688" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="689" count="0" type="stmt"/>
+        <line num="694" count="0" type="stmt"/>
+        <line num="701" count="0" type="stmt"/>
+        <line num="709" count="2" type="stmt"/>
+        <line num="710" count="2" type="stmt"/>
+        <line num="711" count="2" type="stmt"/>
+        <line num="712" count="2" type="stmt"/>
+        <line num="714" count="2" type="stmt"/>
+        <line num="716" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="717" count="0" type="stmt"/>
+        <line num="723" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="724" count="0" type="stmt"/>
+        <line num="730" count="2" type="stmt"/>
+        <line num="731" count="2" type="stmt"/>
+        <line num="733" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="734" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="735" count="0" type="stmt"/>
+        <line num="738" count="0" type="stmt"/>
+        <line num="739" count="0" type="stmt"/>
+        <line num="742" count="2" type="stmt"/>
+        <line num="751" count="2" type="stmt"/>
+        <line num="753" count="2" type="cond" truecount="2" falsecount="2"/>
+        <line num="754" count="0" type="stmt"/>
+        <line num="759" count="2" type="stmt"/>
+        <line num="765" count="0" type="stmt"/>
+        <line num="773" count="2" type="stmt"/>
+        <line num="774" count="2" type="stmt"/>
+        <line num="775" count="2" type="stmt"/>
+        <line num="777" count="2" type="stmt"/>
+        <line num="779" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="780" count="0" type="stmt"/>
+        <line num="786" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="787" count="0" type="stmt"/>
+        <line num="793" count="2" type="cond" truecount="3" falsecount="1"/>
+        <line num="794" count="0" type="stmt"/>
+        <line num="800" count="2" type="stmt"/>
+        <line num="802" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="803" count="0" type="stmt"/>
+        <line num="809" count="2" type="stmt"/>
+        <line num="811" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="812" count="0" type="stmt"/>
+        <line num="818" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="819" count="0" type="stmt"/>
+        <line num="825" count="2" type="stmt"/>
+        <line num="827" count="2" type="stmt"/>
+        <line num="829" count="2" type="stmt"/>
+        <line num="831" count="2" type="stmt"/>
+        <line num="833" count="2" type="stmt"/>
+        <line num="841" count="0" type="stmt"/>
+        <line num="843" count="0" type="stmt"/>
+        <line num="852" count="2" type="stmt"/>
+        <line num="853" count="2" type="stmt"/>
+        <line num="855" count="2" type="stmt"/>
+        <line num="861" count="2" type="stmt"/>
+        <line num="862" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="863" count="0" type="stmt"/>
+        <line num="868" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="869" count="0" type="stmt"/>
+        <line num="875" count="2" type="stmt"/>
+        <line num="877" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="878" count="0" type="stmt"/>
+        <line num="883" count="2" type="stmt"/>
+        <line num="889" count="0" type="stmt"/>
+        <line num="898" count="2" type="stmt"/>
+        <line num="899" count="2" type="stmt"/>
+        <line num="900" count="2" type="stmt"/>
+        <line num="906" count="2" type="stmt"/>
+        <line num="907" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="908" count="0" type="stmt"/>
+        <line num="913" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="914" count="0" type="stmt"/>
+        <line num="920" count="2" type="stmt"/>
+        <line num="922" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="923" count="0" type="stmt"/>
+        <line num="928" count="2" type="stmt"/>
+        <line num="934" count="0" type="stmt"/>
+        <line num="943" count="2" type="stmt"/>
+        <line num="944" count="2" type="stmt"/>
+        <line num="945" count="2" type="stmt"/>
+        <line num="947" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="948" count="0" type="stmt"/>
+        <line num="954" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="955" count="0" type="stmt"/>
+        <line num="960" count="2" type="stmt"/>
+        <line num="962" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="963" count="0" type="stmt"/>
+        <line num="968" count="2" type="stmt"/>
+        <line num="969" count="2" type="stmt"/>
+        <line num="971" count="0" type="stmt"/>
+        <line num="975" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="976" count="2" type="stmt"/>
+        <line num="977" count="2" type="stmt"/>
+        <line num="979" count="2" type="stmt"/>
+        <line num="983" count="2" type="stmt"/>
+        <line num="989" count="0" type="stmt"/>
+        <line num="991" count="0" type="stmt"/>
+        <line num="999" count="2" type="stmt"/>
+        <line num="1000" count="2" type="stmt"/>
+        <line num="1001" count="2" type="stmt"/>
+        <line num="1003" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="1004" count="0" type="stmt"/>
+        <line num="1010" count="2" type="stmt"/>
+        <line num="1011" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="1012" count="0" type="stmt"/>
+        <line num="1017" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="1018" count="0" type="stmt"/>
+        <line num="1024" count="2" type="stmt"/>
+        <line num="1030" count="2" type="stmt"/>
+        <line num="1032" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="1033" count="0" type="stmt"/>
+        <line num="1038" count="2" type="stmt"/>
+        <line num="1045" count="0" type="stmt"/>
+        <line num="1053" count="2" type="stmt"/>
+      </file>
+      <file name="CardController.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\controller\Apis\CardController.js">
+        <metrics statements="115" coveredstatements="6" conditionals="48" coveredconditionals="0" methods="9" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="36" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="101" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="102" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="104" count="0" type="stmt"/>
+        <line num="107" count="0" type="stmt"/>
+        <line num="114" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="115" count="0" type="stmt"/>
+        <line num="121" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="122" count="0" type="stmt"/>
+        <line num="128" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="129" count="0" type="stmt"/>
+        <line num="135" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="136" count="0" type="stmt"/>
+        <line num="139" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="140" count="0" type="stmt"/>
+        <line num="144" count="0" type="stmt"/>
+        <line num="154" count="0" type="stmt"/>
+        <line num="156" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="157" count="0" type="stmt"/>
+        <line num="165" count="0" type="stmt"/>
+        <line num="192" count="0" type="stmt"/>
+        <line num="194" count="0" type="stmt"/>
+        <line num="195" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="198" count="0" type="stmt"/>
+        <line num="207" count="0" type="stmt"/>
+        <line num="209" count="0" type="stmt"/>
+        <line num="216" count="0" type="stmt"/>
+        <line num="218" count="0" type="stmt"/>
+        <line num="228" count="0" type="stmt"/>
+        <line num="229" count="0" type="stmt"/>
+        <line num="230" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="231" count="0" type="stmt"/>
+        <line num="236" count="0" type="stmt"/>
+        <line num="252" count="0" type="stmt"/>
+        <line num="255" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="256" count="0" type="stmt"/>
+        <line num="263" count="0" type="stmt"/>
+        <line num="269" count="0" type="stmt"/>
+        <line num="271" count="0" type="stmt"/>
+        <line num="280" count="0" type="stmt"/>
+        <line num="281" count="0" type="stmt"/>
+        <line num="292" count="0" type="stmt"/>
+        <line num="294" count="0" type="stmt"/>
+        <line num="296" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="297" count="0" type="stmt"/>
+        <line num="303" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="304" count="0" type="stmt"/>
+        <line num="309" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="310" count="0" type="stmt"/>
+        <line num="317" count="0" type="stmt"/>
+        <line num="318" count="0" type="stmt"/>
+        <line num="320" count="0" type="stmt"/>
+        <line num="321" count="0" type="stmt"/>
+        <line num="323" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="324" count="0" type="stmt"/>
+        <line num="329" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="330" count="0" type="stmt"/>
+        <line num="333" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="334" count="0" type="stmt"/>
+        <line num="338" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="339" count="0" type="stmt"/>
+        <line num="343" count="0" type="stmt"/>
+        <line num="368" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="369" count="0" type="stmt"/>
+        <line num="375" count="0" type="stmt"/>
+        <line num="377" count="0" type="stmt"/>
+        <line num="383" count="0" type="stmt"/>
+        <line num="391" count="0" type="stmt"/>
+        <line num="392" count="0" type="stmt"/>
+        <line num="394" count="0" type="stmt"/>
+        <line num="407" count="0" type="stmt"/>
+        <line num="409" count="0" type="stmt"/>
+        <line num="415" count="0" type="stmt"/>
+        <line num="423" count="0" type="stmt"/>
+        <line num="424" count="0" type="stmt"/>
+        <line num="425" count="0" type="stmt"/>
+        <line num="437" count="0" type="stmt"/>
+        <line num="439" count="0" type="stmt"/>
+        <line num="445" count="0" type="stmt"/>
+        <line num="453" count="0" type="stmt"/>
+        <line num="454" count="0" type="stmt"/>
+        <line num="456" count="0" type="stmt"/>
+        <line num="457" count="0" type="stmt"/>
+        <line num="458" count="0" type="stmt"/>
+        <line num="460" count="0" type="stmt"/>
+        <line num="462" count="0" type="stmt"/>
+        <line num="464" count="0" type="stmt"/>
+        <line num="466" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="467" count="0" type="stmt"/>
+        <line num="469" count="0" type="stmt"/>
+        <line num="473" count="0" type="stmt"/>
+        <line num="480" count="0" type="stmt"/>
+        <line num="488" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.middleware">
+      <metrics statements="27" coveredstatements="22" conditionals="12" coveredconditionals="8" methods="3" coveredmethods="3"/>
+      <file name="AuthMiddleware.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\middleware\AuthMiddleware.js">
+        <metrics statements="18" coveredstatements="15" conditionals="8" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="6" count="27" type="stmt"/>
+        <line num="7" count="27" type="stmt"/>
+        <line num="9" count="27" type="cond" truecount="1" falsecount="1"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="16" count="27" type="stmt"/>
+        <line num="18" count="27" type="cond" truecount="3" falsecount="1"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="25" count="27" type="stmt"/>
+        <line num="30" count="27" type="stmt"/>
+        <line num="32" count="27" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="7" type="stmt"/>
+        <line num="39" count="20" type="stmt"/>
+        <line num="47" count="20" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="58" count="2" type="stmt"/>
+      </file>
+      <file name="roleMiddleware.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\middleware\roleMiddleware.js">
+        <metrics statements="9" coveredstatements="7" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="16" type="stmt"/>
+        <line num="5" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="11" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="18" count="8" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.model">
+      <metrics statements="22" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="card.model.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\model\card.model.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="87" count="6" type="stmt"/>
+        <line num="92" count="6" type="stmt"/>
+        <line num="113" count="2" type="stmt"/>
+        <line num="114" count="2" type="stmt"/>
+      </file>
+      <file name="otp.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\model\otp.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+      </file>
+      <file name="user.model.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\model\user.model.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="66" count="2" type="stmt"/>
+        <line num="67" count="65" type="stmt"/>
+        <line num="70" count="2" type="stmt"/>
+        <line num="71" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.router">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="homerouter.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\router\homerouter.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+      </file>
+      <file name="index.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\router\index.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.router.apis">
+      <metrics statements="41" coveredstatements="41" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="cardrouter.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\router\apis\cardrouter.js">
+        <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="174" count="2" type="stmt"/>
+        <line num="198" count="2" type="stmt"/>
+        <line num="226" count="2" type="stmt"/>
+        <line num="394" count="2" type="stmt"/>
+        <line num="425" count="2" type="stmt"/>
+        <line num="452" count="2" type="stmt"/>
+        <line num="479" count="2" type="stmt"/>
+        <line num="481" count="2" type="stmt"/>
+      </file>
+      <file name="userRouter.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\router\apis\userRouter.js">
+        <metrics statements="25" coveredstatements="25" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="57" count="2" type="stmt"/>
+        <line num="96" count="2" type="stmt"/>
+        <line num="126" count="2" type="stmt"/>
+        <line num="160" count="2" type="stmt"/>
+        <line num="190" count="2" type="stmt"/>
+        <line num="211" count="2" type="stmt"/>
+        <line num="236" count="2" type="stmt"/>
+        <line num="281" count="2" type="stmt"/>
+        <line num="320" count="2" type="stmt"/>
+        <line num="372" count="2" type="stmt"/>
+        <line num="406" count="2" type="stmt"/>
+        <line num="453" count="2" type="stmt"/>
+        <line num="484" count="2" type="stmt"/>
+        <line num="515" count="2" type="stmt"/>
+        <line num="546" count="2" type="stmt"/>
+        <line num="594" count="2" type="stmt"/>
+        <line num="601" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.services">
+      <metrics statements="69" coveredstatements="41" conditionals="14" coveredconditionals="3" methods="8" coveredmethods="4"/>
+      <file name="UserCache.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\services\UserCache.js">
+        <metrics statements="9" coveredstatements="9" conditionals="1" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="8" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="12" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+      </file>
+      <file name="authService.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\services\authService.js">
+        <metrics statements="51" coveredstatements="26" conditionals="12" coveredconditionals="3" methods="2" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="41" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="53" count="2" type="stmt"/>
+        <line num="54" count="65" type="stmt"/>
+        <line num="55" count="65" type="stmt"/>
+        <line num="59" count="65" type="stmt"/>
+        <line num="61" count="65" type="cond" truecount="1" falsecount="1"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="69" count="65" type="stmt"/>
+        <line num="74" count="65" type="stmt"/>
+        <line num="76" count="65" type="cond" truecount="1" falsecount="1"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="85" count="65" type="cond" truecount="1" falsecount="1"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="94" count="65" type="stmt"/>
+        <line num="99" count="65" type="stmt"/>
+        <line num="100" count="65" type="stmt"/>
+        <line num="101" count="65" type="stmt"/>
+        <line num="103" count="65" type="stmt"/>
+        <line num="104" count="65" type="stmt"/>
+        <line num="106" count="65" type="stmt"/>
+        <line num="108" count="65" type="stmt"/>
+        <line num="113" count="65" type="stmt"/>
+        <line num="121" count="0" type="stmt"/>
+        <line num="127" count="0" type="stmt"/>
+        <line num="131" count="2" type="stmt"/>
+      </file>
+      <file name="cardCache.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\services\cardCache.js">
+        <metrics statements="9" coveredstatements="6" conditionals="1" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="16" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.utils">
+      <metrics statements="66" coveredstatements="48" conditionals="9" coveredconditionals="5" methods="9" coveredmethods="6"/>
+      <file name="RateLimit.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\utils\RateLimit.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+      </file>
+      <file name="genarateToken.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\utils\genarateToken.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="65" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="67" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="67" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+      </file>
+      <file name="logger.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\utils\logger.js">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+      </file>
+      <file name="multer.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\utils\multer.js">
+        <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+      </file>
+      <file name="redisCache.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\utils\redisCache.js">
+        <metrics statements="33" coveredstatements="21" conditionals="7" coveredconditionals="4" methods="4" coveredmethods="3"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="14" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="37" count="12" type="stmt"/>
+        <line num="38" count="12" type="stmt"/>
+        <line num="39" count="12" type="stmt"/>
+        <line num="40" count="12" type="stmt"/>
+        <line num="45" count="12" type="stmt"/>
+        <line num="46" count="12" type="cond" truecount="1" falsecount="1"/>
+        <line num="47" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="51" count="12" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="58" count="2" type="stmt"/>
+      </file>
+      <file name="sendEmailOtp.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\utils\sendEmailOtp.js">
+        <metrics statements="9" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+      </file>
+      <file name="statuscode.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\utils\statuscode.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.validation">
+      <metrics statements="18" coveredstatements="17" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="3"/>
+      <file name="CardSchemaValidation.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\validation\CardSchemaValidation.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="71" count="2" type="stmt"/>
+        <line num="84" count="20" type="stmt"/>
+        <line num="89" count="2" type="stmt"/>
+      </file>
+      <file name="UserSchemaValidation.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\validation\UserSchemaValidation.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="52" count="2" type="stmt"/>
+      </file>
+      <file name="index.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\validation\index.js">
+        <metrics statements="8" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="6" count="65" type="stmt"/>
+        <line num="11" count="65" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="18" count="65" type="stmt"/>
+        <line num="19" count="65" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

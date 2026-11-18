@@ -1545,3 +1545,1059 @@
 {"email":"cardtest@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-05T07:18:29.755Z","userId":"6aec2dc405dc37ebebcc2488"}
 {"email":"cardtest@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-05T07:18:29.756Z","userId":"6aec2dc405dc37ebebcc2488"}
 {"email":"cardtest@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-05T07:18:29.757Z","userId":"6aec2dc405dc37ebebcc2488"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:08.599Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:08.605Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:08.647Z","userId":"6afd4e60878d4560aa18953a"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:08.704Z","userId":"6afd4e60878d4560aa18953a"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:08.750Z","userId":"6afd4e60878d4560aa18953a"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:08.751Z","userId":"6afd4e60878d4560aa18953a"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:08.752Z","userId":"6afd4e60878d4560aa18953a"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:08.752Z","userId":"6afd4e60878d4560aa18953a"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:08.760Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:08.761Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:08.800Z","userId":"6afd4e60878d4560aa18953b"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:08.856Z","userId":"6afd4e60878d4560aa18953b"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:08.898Z","userId":"6afd4e60878d4560aa18953b"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:08.899Z","userId":"6afd4e60878d4560aa18953b"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:08.900Z","userId":"6afd4e60878d4560aa18953b"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:08.900Z","userId":"6afd4e60878d4560aa18953b"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:08.908Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:08.909Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:08.962Z","userId":"6afd4e60878d4560aa18953b"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:09.018Z","userId":"6afd4e60878d4560aa18953b"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:09.061Z","userId":"6afd4e60878d4560aa18953b"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:09.062Z","userId":"6afd4e60878d4560aa18953b"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:09.063Z","userId":"6afd4e60878d4560aa18953b"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:09.063Z","userId":"6afd4e60878d4560aa18953b"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:09.400Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:09.400Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:09.438Z","userId":"6afd4e61878d4560aa18953c"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:09.493Z","userId":"6afd4e61878d4560aa18953c"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:09.536Z","userId":"6afd4e61878d4560aa18953c"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:09.536Z","userId":"6afd4e61878d4560aa18953c"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:09.537Z","userId":"6afd4e61878d4560aa18953c"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:09.537Z","userId":"6afd4e61878d4560aa18953c"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:09.540Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:09.541Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:09.580Z","userId":"6afd4e61878d4560aa18953d"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:09.638Z","userId":"6afd4e61878d4560aa18953d"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:09.682Z","userId":"6afd4e61878d4560aa18953d"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:09.683Z","userId":"6afd4e61878d4560aa18953d"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:09.683Z","userId":"6afd4e61878d4560aa18953d"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:09.683Z","userId":"6afd4e61878d4560aa18953d"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:10.083Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:10.084Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:10.131Z","userId":"6afd4e61878d4560aa18953e"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:10.190Z","userId":"6afd4e61878d4560aa18953e"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:10.233Z","userId":"6afd4e61878d4560aa18953e"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:10.234Z","userId":"6afd4e61878d4560aa18953e"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:10.234Z","userId":"6afd4e61878d4560aa18953e"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:10.234Z","userId":"6afd4e61878d4560aa18953e"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:10.240Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:10.241Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:10.280Z","userId":"6afd4e61878d4560aa18953f"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:10.338Z","userId":"6afd4e61878d4560aa18953f"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:10.381Z","userId":"6afd4e61878d4560aa18953f"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:10.382Z","userId":"6afd4e61878d4560aa18953f"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:10.382Z","userId":"6afd4e61878d4560aa18953f"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:10.383Z","userId":"6afd4e61878d4560aa18953f"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:10.822Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:10.823Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:10.866Z","userId":"6afd4e62878d4560aa189540"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:10.932Z","userId":"6afd4e62878d4560aa189540"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:10.977Z","userId":"6afd4e62878d4560aa189540"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:10.977Z","userId":"6afd4e62878d4560aa189540"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:10.978Z","userId":"6afd4e62878d4560aa189540"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:10.978Z","userId":"6afd4e62878d4560aa189540"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:10.983Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:10.984Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:11.023Z","userId":"6afd4e62878d4560aa189541"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:11.092Z","userId":"6afd4e62878d4560aa189541"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:11.133Z","userId":"6afd4e62878d4560aa189541"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:11.134Z","userId":"6afd4e62878d4560aa189541"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:11.135Z","userId":"6afd4e62878d4560aa189541"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:11.135Z","userId":"6afd4e62878d4560aa189541"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:11.558Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:11.559Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:11.599Z","userId":"6afd4e63878d4560aa189542"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:11.664Z","userId":"6afd4e63878d4560aa189542"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:11.709Z","userId":"6afd4e63878d4560aa189542"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:11.710Z","userId":"6afd4e63878d4560aa189542"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:11.711Z","userId":"6afd4e63878d4560aa189542"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:11.711Z","userId":"6afd4e63878d4560aa189542"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:11.715Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:11.716Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:11.754Z","userId":"6afd4e63878d4560aa189543"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:11.812Z","userId":"6afd4e63878d4560aa189543"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:11.857Z","userId":"6afd4e63878d4560aa189543"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:11.857Z","userId":"6afd4e63878d4560aa189543"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:11.857Z","userId":"6afd4e63878d4560aa189543"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:11.857Z","userId":"6afd4e63878d4560aa189543"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:12.319Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:12.320Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:12.359Z","userId":"6afd4e64878d4560aa189544"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:12.429Z","userId":"6afd4e64878d4560aa189544"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:12.474Z","userId":"6afd4e64878d4560aa189544"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:12.474Z","userId":"6afd4e64878d4560aa189544"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:12.474Z","userId":"6afd4e64878d4560aa189544"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:12.475Z","userId":"6afd4e64878d4560aa189544"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:12.477Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:12.478Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:12.523Z","userId":"6afd4e64878d4560aa189545"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:12.582Z","userId":"6afd4e64878d4560aa189545"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:12.627Z","userId":"6afd4e64878d4560aa189545"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:12.627Z","userId":"6afd4e64878d4560aa189545"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:12.628Z","userId":"6afd4e64878d4560aa189545"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:12.628Z","userId":"6afd4e64878d4560aa189545"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:13.296Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:13.296Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:13.336Z","userId":"6afd4e65878d4560aa189546"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:13.394Z","userId":"6afd4e65878d4560aa189546"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:13.437Z","userId":"6afd4e65878d4560aa189546"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:13.438Z","userId":"6afd4e65878d4560aa189546"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:13.438Z","userId":"6afd4e65878d4560aa189546"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:13.438Z","userId":"6afd4e65878d4560aa189546"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:13.441Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:13.441Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:13.483Z","userId":"6afd4e65878d4560aa189547"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:13.542Z","userId":"6afd4e65878d4560aa189547"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:13.585Z","userId":"6afd4e65878d4560aa189547"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:13.586Z","userId":"6afd4e65878d4560aa189547"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:13.586Z","userId":"6afd4e65878d4560aa189547"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:13.587Z","userId":"6afd4e65878d4560aa189547"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:14.052Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:14.053Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:14.094Z","userId":"6afd4e65878d4560aa189548"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:14.157Z","userId":"6afd4e65878d4560aa189548"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:14.200Z","userId":"6afd4e65878d4560aa189548"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:14.201Z","userId":"6afd4e65878d4560aa189548"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:14.201Z","userId":"6afd4e65878d4560aa189548"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:14.202Z","userId":"6afd4e65878d4560aa189548"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:14.206Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:14.207Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:14.247Z","userId":"6afd4e65878d4560aa189549"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:14.314Z","userId":"6afd4e65878d4560aa189549"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:14.358Z","userId":"6afd4e65878d4560aa189549"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:14.358Z","userId":"6afd4e65878d4560aa189549"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:14.359Z","userId":"6afd4e65878d4560aa189549"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:14.359Z","userId":"6afd4e65878d4560aa189549"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:14.881Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:14.882Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:14.934Z","userId":"6afd4e66878d4560aa18954a"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:15.004Z","userId":"6afd4e66878d4560aa18954a"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:15.050Z","userId":"6afd4e66878d4560aa18954a"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:15.050Z","userId":"6afd4e66878d4560aa18954a"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:15.051Z","userId":"6afd4e66878d4560aa18954a"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:15.051Z","userId":"6afd4e66878d4560aa18954a"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:15.057Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:15.058Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:15.097Z","userId":"6afd4e66878d4560aa18954b"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:15.202Z","userId":"6afd4e66878d4560aa18954b"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:15.248Z","userId":"6afd4e66878d4560aa18954b"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:15.249Z","userId":"6afd4e66878d4560aa18954b"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:15.250Z","userId":"6afd4e66878d4560aa18954b"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:15.250Z","userId":"6afd4e66878d4560aa18954b"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:15.748Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:15.749Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:15.790Z","userId":"6afd4e67878d4560aa18954c"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:15.856Z","userId":"6afd4e67878d4560aa18954c"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:15.903Z","userId":"6afd4e67878d4560aa18954c"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:15.904Z","userId":"6afd4e67878d4560aa18954c"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:15.904Z","userId":"6afd4e67878d4560aa18954c"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:15.904Z","userId":"6afd4e67878d4560aa18954c"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:15.909Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:15.910Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:15.950Z","userId":"6afd4e67878d4560aa18954d"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:16.023Z","userId":"6afd4e67878d4560aa18954d"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:16.068Z","userId":"6afd4e67878d4560aa18954d"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:16.069Z","userId":"6afd4e67878d4560aa18954d"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:16.070Z","userId":"6afd4e67878d4560aa18954d"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:16.070Z","userId":"6afd4e67878d4560aa18954d"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:16.590Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:16.591Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:16.631Z","userId":"6afd4e68878d4560aa18954e"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:16.695Z","userId":"6afd4e68878d4560aa18954e"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:16.739Z","userId":"6afd4e68878d4560aa18954e"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:16.740Z","userId":"6afd4e68878d4560aa18954e"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:16.740Z","userId":"6afd4e68878d4560aa18954e"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:16.740Z","userId":"6afd4e68878d4560aa18954e"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:16.744Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:16.745Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:16.786Z","userId":"6afd4e68878d4560aa18954f"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:16.846Z","userId":"6afd4e68878d4560aa18954f"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:16.890Z","userId":"6afd4e68878d4560aa18954f"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:16.890Z","userId":"6afd4e68878d4560aa18954f"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:16.891Z","userId":"6afd4e68878d4560aa18954f"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:16.891Z","userId":"6afd4e68878d4560aa18954f"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:17.327Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:17.328Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:17.379Z","userId":"6afd4e69878d4560aa189550"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:17.444Z","userId":"6afd4e69878d4560aa189550"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:17.488Z","userId":"6afd4e69878d4560aa189550"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:17.489Z","userId":"6afd4e69878d4560aa189550"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:17.489Z","userId":"6afd4e69878d4560aa189550"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:17.490Z","userId":"6afd4e69878d4560aa189550"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:17.494Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:17.496Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:17.536Z","userId":"6afd4e69878d4560aa189551"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:17.597Z","userId":"6afd4e69878d4560aa189551"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:17.640Z","userId":"6afd4e69878d4560aa189551"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:17.640Z","userId":"6afd4e69878d4560aa189551"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:17.641Z","userId":"6afd4e69878d4560aa189551"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:17.641Z","userId":"6afd4e69878d4560aa189551"}
+{"email":"cardtest@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:06:19.740Z"}
+{"email":"cardtest@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:06:19.744Z"}
+{"email":"cardtest@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:06:19.789Z","userId":"6afd4e6bf6a1766a21adf640"}
+{"email":"cardtest@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:06:19.844Z","userId":"6afd4e6bf6a1766a21adf640"}
+{"email":"cardtest@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:06:19.891Z","userId":"6afd4e6bf6a1766a21adf640"}
+{"email":"cardtest@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:06:19.891Z","userId":"6afd4e6bf6a1766a21adf640"}
+{"email":"cardtest@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:06:19.892Z","userId":"6afd4e6bf6a1766a21adf640"}
+{"email":"cardtest@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:06:19.892Z","userId":"6afd4e6bf6a1766a21adf640"}
+{"email":"cardtest@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:32.476Z"}
+{"email":"cardtest@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:32.478Z"}
+{"email":"cardtest@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:32.519Z","userId":"6afd5184ae4f601e5dc92c7f"}
+{"email":"cardtest@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:32.579Z","userId":"6afd5184ae4f601e5dc92c7f"}
+{"email":"cardtest@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:32.623Z","userId":"6afd5184ae4f601e5dc92c7f"}
+{"email":"cardtest@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:32.623Z","userId":"6afd5184ae4f601e5dc92c7f"}
+{"email":"cardtest@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:32.624Z","userId":"6afd5184ae4f601e5dc92c7f"}
+{"email":"cardtest@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:32.624Z","userId":"6afd5184ae4f601e5dc92c7f"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:32.886Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:32.886Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:32.923Z","userId":"6afd5184ae4f601e5dc92c80"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:32.981Z","userId":"6afd5184ae4f601e5dc92c80"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:33.022Z","userId":"6afd5184ae4f601e5dc92c80"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:33.023Z","userId":"6afd5184ae4f601e5dc92c80"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:33.023Z","userId":"6afd5184ae4f601e5dc92c80"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:33.023Z","userId":"6afd5184ae4f601e5dc92c80"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:33.028Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:33.028Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:33.064Z","userId":"6afd5184ae4f601e5dc92c81"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:33.119Z","userId":"6afd5184ae4f601e5dc92c81"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:33.161Z","userId":"6afd5184ae4f601e5dc92c81"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:33.162Z","userId":"6afd5184ae4f601e5dc92c81"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:33.162Z","userId":"6afd5184ae4f601e5dc92c81"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:33.162Z","userId":"6afd5184ae4f601e5dc92c81"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:33.628Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:33.628Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:33.663Z","userId":"6afd5185ae4f601e5dc92c83"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:33.720Z","userId":"6afd5185ae4f601e5dc92c83"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:33.759Z","userId":"6afd5185ae4f601e5dc92c83"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:33.760Z","userId":"6afd5185ae4f601e5dc92c83"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:33.760Z","userId":"6afd5185ae4f601e5dc92c83"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:33.761Z","userId":"6afd5185ae4f601e5dc92c83"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:33.766Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:33.766Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:33.802Z","userId":"6afd5185ae4f601e5dc92c84"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:33.858Z","userId":"6afd5185ae4f601e5dc92c84"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:33.896Z","userId":"6afd5185ae4f601e5dc92c84"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:33.897Z","userId":"6afd5185ae4f601e5dc92c84"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:33.897Z","userId":"6afd5185ae4f601e5dc92c84"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:33.897Z","userId":"6afd5185ae4f601e5dc92c84"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:34.324Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:34.324Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:34.364Z","userId":"6afd5186ae4f601e5dc92c86"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:34.421Z","userId":"6afd5186ae4f601e5dc92c86"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:34.462Z","userId":"6afd5186ae4f601e5dc92c86"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:34.462Z","userId":"6afd5186ae4f601e5dc92c86"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:34.463Z","userId":"6afd5186ae4f601e5dc92c86"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:34.463Z","userId":"6afd5186ae4f601e5dc92c86"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:34.467Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:34.467Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:34.503Z","userId":"6afd5186ae4f601e5dc92c87"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:34.560Z","userId":"6afd5186ae4f601e5dc92c87"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:34.599Z","userId":"6afd5186ae4f601e5dc92c87"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:34.600Z","userId":"6afd5186ae4f601e5dc92c87"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:34.600Z","userId":"6afd5186ae4f601e5dc92c87"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:34.601Z","userId":"6afd5186ae4f601e5dc92c87"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:35.041Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:35.042Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:35.076Z","userId":"6afd5186ae4f601e5dc92c89"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:35.132Z","userId":"6afd5186ae4f601e5dc92c89"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:35.171Z","userId":"6afd5186ae4f601e5dc92c89"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:35.171Z","userId":"6afd5186ae4f601e5dc92c89"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:35.172Z","userId":"6afd5186ae4f601e5dc92c89"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:35.172Z","userId":"6afd5186ae4f601e5dc92c89"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:35.176Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:35.177Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:35.212Z","userId":"6afd5186ae4f601e5dc92c8a"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:35.273Z","userId":"6afd5186ae4f601e5dc92c8a"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:35.339Z","userId":"6afd5186ae4f601e5dc92c8a"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:35.340Z","userId":"6afd5186ae4f601e5dc92c8a"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:35.340Z","userId":"6afd5186ae4f601e5dc92c8a"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:35.340Z","userId":"6afd5186ae4f601e5dc92c8a"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:35.767Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:35.768Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:35.803Z","userId":"6afd5187ae4f601e5dc92c8c"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:35.863Z","userId":"6afd5187ae4f601e5dc92c8c"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:35.904Z","userId":"6afd5187ae4f601e5dc92c8c"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:35.905Z","userId":"6afd5187ae4f601e5dc92c8c"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:35.905Z","userId":"6afd5187ae4f601e5dc92c8c"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:35.905Z","userId":"6afd5187ae4f601e5dc92c8c"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:35.908Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:35.909Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:35.944Z","userId":"6afd5187ae4f601e5dc92c8d"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:35.999Z","userId":"6afd5187ae4f601e5dc92c8d"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:36.040Z","userId":"6afd5187ae4f601e5dc92c8d"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:36.040Z","userId":"6afd5187ae4f601e5dc92c8d"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:36.040Z","userId":"6afd5187ae4f601e5dc92c8d"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:36.040Z","userId":"6afd5187ae4f601e5dc92c8d"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:36.454Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:36.454Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:36.488Z","userId":"6afd5188ae4f601e5dc92c8f"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:36.545Z","userId":"6afd5188ae4f601e5dc92c8f"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:36.584Z","userId":"6afd5188ae4f601e5dc92c8f"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:36.584Z","userId":"6afd5188ae4f601e5dc92c8f"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:36.585Z","userId":"6afd5188ae4f601e5dc92c8f"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:36.585Z","userId":"6afd5188ae4f601e5dc92c8f"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:36.589Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:36.589Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:36.624Z","userId":"6afd5188ae4f601e5dc92c90"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:36.681Z","userId":"6afd5188ae4f601e5dc92c90"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:36.720Z","userId":"6afd5188ae4f601e5dc92c90"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:36.721Z","userId":"6afd5188ae4f601e5dc92c90"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:36.721Z","userId":"6afd5188ae4f601e5dc92c90"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:36.721Z","userId":"6afd5188ae4f601e5dc92c90"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:37.146Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:37.147Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:37.181Z","userId":"6afd5188ae4f601e5dc92c92"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:37.240Z","userId":"6afd5188ae4f601e5dc92c92"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:37.280Z","userId":"6afd5188ae4f601e5dc92c92"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:37.281Z","userId":"6afd5188ae4f601e5dc92c92"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:37.281Z","userId":"6afd5188ae4f601e5dc92c92"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:37.282Z","userId":"6afd5188ae4f601e5dc92c92"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:37.286Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:37.286Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:37.321Z","userId":"6afd5189ae4f601e5dc92c93"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:37.380Z","userId":"6afd5189ae4f601e5dc92c93"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:37.420Z","userId":"6afd5189ae4f601e5dc92c93"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:37.421Z","userId":"6afd5189ae4f601e5dc92c93"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:37.421Z","userId":"6afd5189ae4f601e5dc92c93"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:37.422Z","userId":"6afd5189ae4f601e5dc92c93"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:37.856Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:37.857Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:37.894Z","userId":"6afd5189ae4f601e5dc92c95"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:37.957Z","userId":"6afd5189ae4f601e5dc92c95"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:38.000Z","userId":"6afd5189ae4f601e5dc92c95"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.000Z","userId":"6afd5189ae4f601e5dc92c95"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.001Z","userId":"6afd5189ae4f601e5dc92c95"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.001Z","userId":"6afd5189ae4f601e5dc92c95"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:38.006Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:38.006Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:38.042Z","userId":"6afd5189ae4f601e5dc92c96"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.098Z","userId":"6afd5189ae4f601e5dc92c96"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:38.137Z","userId":"6afd5189ae4f601e5dc92c96"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.137Z","userId":"6afd5189ae4f601e5dc92c96"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.138Z","userId":"6afd5189ae4f601e5dc92c96"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.138Z","userId":"6afd5189ae4f601e5dc92c96"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:38.143Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:38.143Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:38.179Z","userId":"6afd5189ae4f601e5dc92c96"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.239Z","userId":"6afd5189ae4f601e5dc92c96"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:38.278Z","userId":"6afd5189ae4f601e5dc92c96"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.279Z","userId":"6afd5189ae4f601e5dc92c96"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.279Z","userId":"6afd5189ae4f601e5dc92c96"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.279Z","userId":"6afd5189ae4f601e5dc92c96"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:38.613Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:38.613Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:38.649Z","userId":"6afd518aae4f601e5dc92c97"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.703Z","userId":"6afd518aae4f601e5dc92c97"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:38.742Z","userId":"6afd518aae4f601e5dc92c97"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.742Z","userId":"6afd518aae4f601e5dc92c97"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.743Z","userId":"6afd518aae4f601e5dc92c97"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.743Z","userId":"6afd518aae4f601e5dc92c97"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:38.747Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:38.748Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:38.783Z","userId":"6afd518aae4f601e5dc92c98"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.840Z","userId":"6afd518aae4f601e5dc92c98"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:38.880Z","userId":"6afd518aae4f601e5dc92c98"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.881Z","userId":"6afd518aae4f601e5dc92c98"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.881Z","userId":"6afd518aae4f601e5dc92c98"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:38.881Z","userId":"6afd518aae4f601e5dc92c98"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:39.261Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:39.262Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:39.297Z","userId":"6afd518bae4f601e5dc92c99"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:39.354Z","userId":"6afd518bae4f601e5dc92c99"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:39.392Z","userId":"6afd518bae4f601e5dc92c99"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:39.393Z","userId":"6afd518bae4f601e5dc92c99"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:39.393Z","userId":"6afd518bae4f601e5dc92c99"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:39.393Z","userId":"6afd518bae4f601e5dc92c99"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:39.397Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:39.398Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:39.438Z","userId":"6afd518bae4f601e5dc92c9a"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:39.496Z","userId":"6afd518bae4f601e5dc92c9a"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:39.534Z","userId":"6afd518bae4f601e5dc92c9a"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:39.534Z","userId":"6afd518bae4f601e5dc92c9a"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:39.535Z","userId":"6afd518bae4f601e5dc92c9a"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:39.535Z","userId":"6afd518bae4f601e5dc92c9a"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:39.944Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:39.945Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:39.979Z","userId":"6afd518bae4f601e5dc92c9b"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:40.035Z","userId":"6afd518bae4f601e5dc92c9b"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:40.073Z","userId":"6afd518bae4f601e5dc92c9b"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:40.074Z","userId":"6afd518bae4f601e5dc92c9b"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:40.074Z","userId":"6afd518bae4f601e5dc92c9b"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:40.074Z","userId":"6afd518bae4f601e5dc92c9b"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:40.077Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:40.077Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:40.112Z","userId":"6afd518bae4f601e5dc92c9c"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:40.168Z","userId":"6afd518bae4f601e5dc92c9c"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:40.212Z","userId":"6afd518bae4f601e5dc92c9c"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:40.213Z","userId":"6afd518bae4f601e5dc92c9c"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:40.213Z","userId":"6afd518bae4f601e5dc92c9c"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:40.213Z","userId":"6afd518bae4f601e5dc92c9c"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:40.642Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:40.642Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:40.676Z","userId":"6afd518cae4f601e5dc92c9d"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:40.731Z","userId":"6afd518cae4f601e5dc92c9d"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:40.769Z","userId":"6afd518cae4f601e5dc92c9d"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:40.769Z","userId":"6afd518cae4f601e5dc92c9d"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:40.770Z","userId":"6afd518cae4f601e5dc92c9d"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:40.770Z","userId":"6afd518cae4f601e5dc92c9d"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:40.773Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:40.773Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:40.808Z","userId":"6afd518cae4f601e5dc92c9e"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:40.867Z","userId":"6afd518cae4f601e5dc92c9e"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:40.912Z","userId":"6afd518cae4f601e5dc92c9e"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:40.912Z","userId":"6afd518cae4f601e5dc92c9e"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:40.912Z","userId":"6afd518cae4f601e5dc92c9e"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:40.913Z","userId":"6afd518cae4f601e5dc92c9e"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:41.375Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:41.376Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:41.411Z","userId":"6afd518dae4f601e5dc92c9f"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:41.469Z","userId":"6afd518dae4f601e5dc92c9f"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:41.512Z","userId":"6afd518dae4f601e5dc92c9f"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:41.512Z","userId":"6afd518dae4f601e5dc92c9f"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:41.513Z","userId":"6afd518dae4f601e5dc92c9f"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:41.513Z","userId":"6afd518dae4f601e5dc92c9f"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:41.516Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:41.516Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:41.551Z","userId":"6afd518dae4f601e5dc92ca0"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:41.607Z","userId":"6afd518dae4f601e5dc92ca0"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:41.648Z","userId":"6afd518dae4f601e5dc92ca0"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:41.649Z","userId":"6afd518dae4f601e5dc92ca0"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:41.649Z","userId":"6afd518dae4f601e5dc92ca0"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:41.649Z","userId":"6afd518dae4f601e5dc92ca0"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:42.355Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:42.356Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:42.394Z","userId":"6afd518eae4f601e5dc92ca1"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:42.460Z","userId":"6afd518eae4f601e5dc92ca1"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:42.498Z","userId":"6afd518eae4f601e5dc92ca1"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:42.499Z","userId":"6afd518eae4f601e5dc92ca1"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:42.499Z","userId":"6afd518eae4f601e5dc92ca1"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:42.499Z","userId":"6afd518eae4f601e5dc92ca1"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:42.503Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:42.504Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:42.539Z","userId":"6afd518eae4f601e5dc92ca2"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:42.606Z","userId":"6afd518eae4f601e5dc92ca2"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:42.646Z","userId":"6afd518eae4f601e5dc92ca2"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:42.646Z","userId":"6afd518eae4f601e5dc92ca2"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:42.647Z","userId":"6afd518eae4f601e5dc92ca2"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:42.647Z","userId":"6afd518eae4f601e5dc92ca2"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:43.103Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:43.103Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:43.139Z","userId":"6afd518eae4f601e5dc92ca3"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:43.200Z","userId":"6afd518eae4f601e5dc92ca3"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:43.238Z","userId":"6afd518eae4f601e5dc92ca3"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:43.239Z","userId":"6afd518eae4f601e5dc92ca3"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:43.239Z","userId":"6afd518eae4f601e5dc92ca3"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:43.239Z","userId":"6afd518eae4f601e5dc92ca3"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:43.243Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:43.244Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:43.303Z","userId":"6afd518fae4f601e5dc92ca4"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:43.364Z","userId":"6afd518fae4f601e5dc92ca4"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:43.408Z","userId":"6afd518fae4f601e5dc92ca4"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:43.408Z","userId":"6afd518fae4f601e5dc92ca4"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:43.409Z","userId":"6afd518fae4f601e5dc92ca4"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:43.409Z","userId":"6afd518fae4f601e5dc92ca4"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:43.920Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:43.920Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:43.955Z","userId":"6afd518fae4f601e5dc92ca5"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:44.028Z","userId":"6afd518fae4f601e5dc92ca5"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:44.069Z","userId":"6afd518fae4f601e5dc92ca5"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:44.071Z","userId":"6afd518fae4f601e5dc92ca5"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:44.071Z","userId":"6afd518fae4f601e5dc92ca5"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:44.072Z","userId":"6afd518fae4f601e5dc92ca5"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:44.076Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:44.076Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:44.123Z","userId":"6afd518fae4f601e5dc92ca6"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:44.188Z","userId":"6afd518fae4f601e5dc92ca6"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:44.226Z","userId":"6afd518fae4f601e5dc92ca6"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:44.227Z","userId":"6afd518fae4f601e5dc92ca6"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:44.227Z","userId":"6afd518fae4f601e5dc92ca6"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:44.227Z","userId":"6afd518fae4f601e5dc92ca6"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:44.701Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:44.701Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:44.736Z","userId":"6afd5190ae4f601e5dc92ca7"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:44.800Z","userId":"6afd5190ae4f601e5dc92ca7"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:44.839Z","userId":"6afd5190ae4f601e5dc92ca7"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:44.840Z","userId":"6afd5190ae4f601e5dc92ca7"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:44.841Z","userId":"6afd5190ae4f601e5dc92ca7"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:44.841Z","userId":"6afd5190ae4f601e5dc92ca7"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:44.845Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:44.846Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:44.892Z","userId":"6afd5190ae4f601e5dc92ca8"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:44.948Z","userId":"6afd5190ae4f601e5dc92ca8"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:44.986Z","userId":"6afd5190ae4f601e5dc92ca8"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:44.986Z","userId":"6afd5190ae4f601e5dc92ca8"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:44.986Z","userId":"6afd5190ae4f601e5dc92ca8"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:44.987Z","userId":"6afd5190ae4f601e5dc92ca8"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:45.440Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:45.441Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:45.476Z","userId":"6afd5191ae4f601e5dc92ca9"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:45.533Z","userId":"6afd5191ae4f601e5dc92ca9"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:45.573Z","userId":"6afd5191ae4f601e5dc92ca9"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:45.573Z","userId":"6afd5191ae4f601e5dc92ca9"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:45.573Z","userId":"6afd5191ae4f601e5dc92ca9"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:45.574Z","userId":"6afd5191ae4f601e5dc92ca9"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:45.577Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:45.578Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:45.613Z","userId":"6afd5191ae4f601e5dc92caa"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:45.673Z","userId":"6afd5191ae4f601e5dc92caa"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:45.720Z","userId":"6afd5191ae4f601e5dc92caa"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:45.721Z","userId":"6afd5191ae4f601e5dc92caa"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:45.721Z","userId":"6afd5191ae4f601e5dc92caa"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:45.722Z","userId":"6afd5191ae4f601e5dc92caa"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:46.180Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:46.180Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:46.221Z","userId":"6afd5191ae4f601e5dc92cab"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:46.278Z","userId":"6afd5191ae4f601e5dc92cab"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:46.317Z","userId":"6afd5191ae4f601e5dc92cab"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:46.317Z","userId":"6afd5191ae4f601e5dc92cab"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:46.318Z","userId":"6afd5191ae4f601e5dc92cab"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:46.318Z","userId":"6afd5191ae4f601e5dc92cab"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:46.322Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:46.322Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:46.356Z","userId":"6afd5192ae4f601e5dc92cac"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:46.413Z","userId":"6afd5192ae4f601e5dc92cac"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:46.450Z","userId":"6afd5192ae4f601e5dc92cac"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:46.451Z","userId":"6afd5192ae4f601e5dc92cac"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:46.451Z","userId":"6afd5192ae4f601e5dc92cac"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:46.451Z","userId":"6afd5192ae4f601e5dc92cac"}
+{"email":"cardtest@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:19:48.242Z"}
+{"email":"cardtest@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:19:48.243Z"}
+{"email":"cardtest@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:19:48.281Z","userId":"6afd5194a68ecb5893a3f741"}
+{"email":"cardtest@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:19:48.341Z","userId":"6afd5194a68ecb5893a3f741"}
+{"email":"cardtest@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:19:48.388Z","userId":"6afd5194a68ecb5893a3f741"}
+{"email":"cardtest@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:19:48.389Z","userId":"6afd5194a68ecb5893a3f741"}
+{"email":"cardtest@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:19:48.389Z","userId":"6afd5194a68ecb5893a3f741"}
+{"email":"cardtest@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:19:48.389Z","userId":"6afd5194a68ecb5893a3f741"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:43.080Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:43.082Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:43.117Z","userId":"6afd51cad6d197c813702b62"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:43.175Z","userId":"6afd51cad6d197c813702b62"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:43.217Z","userId":"6afd51cad6d197c813702b62"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:43.218Z","userId":"6afd51cad6d197c813702b62"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:43.219Z","userId":"6afd51cad6d197c813702b62"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:43.219Z","userId":"6afd51cad6d197c813702b62"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:43.231Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:43.232Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:43.268Z","userId":"6afd51cad6d197c813702b63"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:43.323Z","userId":"6afd51cad6d197c813702b63"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:43.362Z","userId":"6afd51cad6d197c813702b63"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:43.362Z","userId":"6afd51cad6d197c813702b63"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:43.363Z","userId":"6afd51cad6d197c813702b63"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:43.363Z","userId":"6afd51cad6d197c813702b63"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:43.369Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:43.369Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:43.404Z","userId":"6afd51cad6d197c813702b63"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:43.462Z","userId":"6afd51cad6d197c813702b63"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:43.501Z","userId":"6afd51cad6d197c813702b63"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:43.501Z","userId":"6afd51cad6d197c813702b63"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:43.501Z","userId":"6afd51cad6d197c813702b63"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:43.502Z","userId":"6afd51cad6d197c813702b63"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:43.814Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:43.814Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:43.850Z","userId":"6afd51cbd6d197c813702b64"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:43.917Z","userId":"6afd51cbd6d197c813702b64"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:43.956Z","userId":"6afd51cbd6d197c813702b64"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:43.956Z","userId":"6afd51cbd6d197c813702b64"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:43.956Z","userId":"6afd51cbd6d197c813702b64"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:43.957Z","userId":"6afd51cbd6d197c813702b64"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:43.962Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:43.963Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:43.998Z","userId":"6afd51cbd6d197c813702b65"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:44.055Z","userId":"6afd51cbd6d197c813702b65"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:44.094Z","userId":"6afd51cbd6d197c813702b65"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:44.094Z","userId":"6afd51cbd6d197c813702b65"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:44.094Z","userId":"6afd51cbd6d197c813702b65"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:44.095Z","userId":"6afd51cbd6d197c813702b65"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:44.451Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:44.451Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:44.501Z","userId":"6afd51ccd6d197c813702b66"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:44.574Z","userId":"6afd51ccd6d197c813702b66"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:44.615Z","userId":"6afd51ccd6d197c813702b66"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:44.615Z","userId":"6afd51ccd6d197c813702b66"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:44.616Z","userId":"6afd51ccd6d197c813702b66"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:44.616Z","userId":"6afd51ccd6d197c813702b66"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:44.623Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:44.624Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:44.658Z","userId":"6afd51ccd6d197c813702b67"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:44.716Z","userId":"6afd51ccd6d197c813702b67"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:44.756Z","userId":"6afd51ccd6d197c813702b67"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:44.757Z","userId":"6afd51ccd6d197c813702b67"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:44.757Z","userId":"6afd51ccd6d197c813702b67"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:44.758Z","userId":"6afd51ccd6d197c813702b67"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:45.180Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:45.180Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:45.215Z","userId":"6afd51ccd6d197c813702b68"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:45.272Z","userId":"6afd51ccd6d197c813702b68"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:45.311Z","userId":"6afd51ccd6d197c813702b68"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:45.312Z","userId":"6afd51ccd6d197c813702b68"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:45.312Z","userId":"6afd51ccd6d197c813702b68"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:45.312Z","userId":"6afd51ccd6d197c813702b68"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:45.317Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:45.317Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:45.352Z","userId":"6afd51cdd6d197c813702b69"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:45.408Z","userId":"6afd51cdd6d197c813702b69"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:45.446Z","userId":"6afd51cdd6d197c813702b69"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:45.447Z","userId":"6afd51cdd6d197c813702b69"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:45.447Z","userId":"6afd51cdd6d197c813702b69"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:45.447Z","userId":"6afd51cdd6d197c813702b69"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:45.840Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:45.840Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:45.875Z","userId":"6afd51cdd6d197c813702b6a"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:45.933Z","userId":"6afd51cdd6d197c813702b6a"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:45.973Z","userId":"6afd51cdd6d197c813702b6a"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:45.973Z","userId":"6afd51cdd6d197c813702b6a"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:45.973Z","userId":"6afd51cdd6d197c813702b6a"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:45.974Z","userId":"6afd51cdd6d197c813702b6a"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:45.977Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:45.978Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:46.021Z","userId":"6afd51cdd6d197c813702b6b"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:46.076Z","userId":"6afd51cdd6d197c813702b6b"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:46.114Z","userId":"6afd51cdd6d197c813702b6b"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:46.115Z","userId":"6afd51cdd6d197c813702b6b"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:46.115Z","userId":"6afd51cdd6d197c813702b6b"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:46.115Z","userId":"6afd51cdd6d197c813702b6b"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:46.529Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:46.529Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:46.564Z","userId":"6afd51ced6d197c813702b6c"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:46.622Z","userId":"6afd51ced6d197c813702b6c"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:46.662Z","userId":"6afd51ced6d197c813702b6c"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:46.663Z","userId":"6afd51ced6d197c813702b6c"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:46.663Z","userId":"6afd51ced6d197c813702b6c"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:46.663Z","userId":"6afd51ced6d197c813702b6c"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:46.666Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:46.667Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:46.702Z","userId":"6afd51ced6d197c813702b6d"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:46.757Z","userId":"6afd51ced6d197c813702b6d"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:46.800Z","userId":"6afd51ced6d197c813702b6d"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:46.800Z","userId":"6afd51ced6d197c813702b6d"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:46.801Z","userId":"6afd51ced6d197c813702b6d"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:46.801Z","userId":"6afd51ced6d197c813702b6d"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:47.420Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:47.420Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:47.457Z","userId":"6afd51cfd6d197c813702b6e"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:47.514Z","userId":"6afd51cfd6d197c813702b6e"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:47.552Z","userId":"6afd51cfd6d197c813702b6e"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:47.552Z","userId":"6afd51cfd6d197c813702b6e"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:47.552Z","userId":"6afd51cfd6d197c813702b6e"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:47.553Z","userId":"6afd51cfd6d197c813702b6e"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:47.556Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:47.556Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:47.590Z","userId":"6afd51cfd6d197c813702b6f"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:47.646Z","userId":"6afd51cfd6d197c813702b6f"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:47.685Z","userId":"6afd51cfd6d197c813702b6f"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:47.686Z","userId":"6afd51cfd6d197c813702b6f"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:47.686Z","userId":"6afd51cfd6d197c813702b6f"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:47.687Z","userId":"6afd51cfd6d197c813702b6f"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:48.112Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:48.113Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:48.148Z","userId":"6afd51cfd6d197c813702b70"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:48.209Z","userId":"6afd51cfd6d197c813702b70"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:48.248Z","userId":"6afd51cfd6d197c813702b70"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:48.248Z","userId":"6afd51cfd6d197c813702b70"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:48.249Z","userId":"6afd51cfd6d197c813702b70"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:48.249Z","userId":"6afd51cfd6d197c813702b70"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:48.252Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:48.253Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:48.288Z","userId":"6afd51d0d6d197c813702b71"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:48.346Z","userId":"6afd51d0d6d197c813702b71"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:48.384Z","userId":"6afd51d0d6d197c813702b71"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:48.385Z","userId":"6afd51d0d6d197c813702b71"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:48.385Z","userId":"6afd51d0d6d197c813702b71"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:48.385Z","userId":"6afd51d0d6d197c813702b71"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:48.840Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:48.841Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:48.875Z","userId":"6afd51d0d6d197c813702b72"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:48.933Z","userId":"6afd51d0d6d197c813702b72"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:48.971Z","userId":"6afd51d0d6d197c813702b72"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:48.972Z","userId":"6afd51d0d6d197c813702b72"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:48.972Z","userId":"6afd51d0d6d197c813702b72"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:48.972Z","userId":"6afd51d0d6d197c813702b72"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:48.976Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:48.976Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:49.011Z","userId":"6afd51d0d6d197c813702b73"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:49.068Z","userId":"6afd51d0d6d197c813702b73"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:49.107Z","userId":"6afd51d0d6d197c813702b73"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:49.108Z","userId":"6afd51d0d6d197c813702b73"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:49.109Z","userId":"6afd51d0d6d197c813702b73"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:49.109Z","userId":"6afd51d0d6d197c813702b73"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:49.539Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:49.539Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:49.573Z","userId":"6afd51d1d6d197c813702b74"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:49.629Z","userId":"6afd51d1d6d197c813702b74"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:49.669Z","userId":"6afd51d1d6d197c813702b74"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:49.669Z","userId":"6afd51d1d6d197c813702b74"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:49.670Z","userId":"6afd51d1d6d197c813702b74"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:49.670Z","userId":"6afd51d1d6d197c813702b74"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:49.673Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:49.673Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:49.708Z","userId":"6afd51d1d6d197c813702b75"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:49.764Z","userId":"6afd51d1d6d197c813702b75"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:49.810Z","userId":"6afd51d1d6d197c813702b75"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:49.810Z","userId":"6afd51d1d6d197c813702b75"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:49.811Z","userId":"6afd51d1d6d197c813702b75"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:49.811Z","userId":"6afd51d1d6d197c813702b75"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:50.221Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:50.221Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:50.259Z","userId":"6afd51d2d6d197c813702b76"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:50.320Z","userId":"6afd51d2d6d197c813702b76"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:50.359Z","userId":"6afd51d2d6d197c813702b76"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:50.359Z","userId":"6afd51d2d6d197c813702b76"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:50.360Z","userId":"6afd51d2d6d197c813702b76"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:50.360Z","userId":"6afd51d2d6d197c813702b76"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:50.363Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:50.364Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:50.401Z","userId":"6afd51d2d6d197c813702b77"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:50.460Z","userId":"6afd51d2d6d197c813702b77"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:50.497Z","userId":"6afd51d2d6d197c813702b77"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:50.497Z","userId":"6afd51d2d6d197c813702b77"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:50.498Z","userId":"6afd51d2d6d197c813702b77"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:50.498Z","userId":"6afd51d2d6d197c813702b77"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:50.889Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:50.890Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:50.926Z","userId":"6afd51d2d6d197c813702b78"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:50.983Z","userId":"6afd51d2d6d197c813702b78"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:51.022Z","userId":"6afd51d2d6d197c813702b78"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:51.022Z","userId":"6afd51d2d6d197c813702b78"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:51.022Z","userId":"6afd51d2d6d197c813702b78"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:51.023Z","userId":"6afd51d2d6d197c813702b78"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:51.026Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:51.027Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:51.061Z","userId":"6afd51d2d6d197c813702b79"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:51.118Z","userId":"6afd51d2d6d197c813702b79"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:51.157Z","userId":"6afd51d2d6d197c813702b79"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:51.157Z","userId":"6afd51d2d6d197c813702b79"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:51.157Z","userId":"6afd51d2d6d197c813702b79"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:51.158Z","userId":"6afd51d2d6d197c813702b79"}
+{"email":"cardtest@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:52.870Z"}
+{"email":"cardtest@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:52.871Z"}
+{"email":"cardtest@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:52.913Z","userId":"6afd51d4ccebb32ed795f852"}
+{"email":"cardtest@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:52.969Z","userId":"6afd51d4ccebb32ed795f852"}
+{"email":"cardtest@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:53.017Z","userId":"6afd51d4ccebb32ed795f852"}
+{"email":"cardtest@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:53.017Z","userId":"6afd51d4ccebb32ed795f852"}
+{"email":"cardtest@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:53.018Z","userId":"6afd51d4ccebb32ed795f852"}
+{"email":"cardtest@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:53.018Z","userId":"6afd51d4ccebb32ed795f852"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:53.272Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:53.272Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:53.314Z","userId":"6afd51d5ccebb32ed795f853"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:53.377Z","userId":"6afd51d5ccebb32ed795f853"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:53.425Z","userId":"6afd51d5ccebb32ed795f853"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:53.426Z","userId":"6afd51d5ccebb32ed795f853"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:53.426Z","userId":"6afd51d5ccebb32ed795f853"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:53.426Z","userId":"6afd51d5ccebb32ed795f853"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:53.431Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:53.431Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:53.472Z","userId":"6afd51d5ccebb32ed795f854"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:53.532Z","userId":"6afd51d5ccebb32ed795f854"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:53.578Z","userId":"6afd51d5ccebb32ed795f854"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:53.579Z","userId":"6afd51d5ccebb32ed795f854"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:53.579Z","userId":"6afd51d5ccebb32ed795f854"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:53.579Z","userId":"6afd51d5ccebb32ed795f854"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:53.582Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:53.583Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:53.624Z","userId":"6afd51d5ccebb32ed795f854"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:53.682Z","userId":"6afd51d5ccebb32ed795f854"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:53.727Z","userId":"6afd51d5ccebb32ed795f854"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:53.727Z","userId":"6afd51d5ccebb32ed795f854"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:53.728Z","userId":"6afd51d5ccebb32ed795f854"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:53.728Z","userId":"6afd51d5ccebb32ed795f854"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:54.123Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:54.124Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:54.168Z","userId":"6afd51d5ccebb32ed795f855"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:54.223Z","userId":"6afd51d5ccebb32ed795f855"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:54.267Z","userId":"6afd51d5ccebb32ed795f855"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:54.268Z","userId":"6afd51d5ccebb32ed795f855"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:54.268Z","userId":"6afd51d5ccebb32ed795f855"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:54.268Z","userId":"6afd51d5ccebb32ed795f855"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:54.271Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:54.272Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:54.313Z","userId":"6afd51d6ccebb32ed795f856"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:54.371Z","userId":"6afd51d6ccebb32ed795f856"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:54.419Z","userId":"6afd51d6ccebb32ed795f856"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:54.419Z","userId":"6afd51d6ccebb32ed795f856"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:54.420Z","userId":"6afd51d6ccebb32ed795f856"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:54.420Z","userId":"6afd51d6ccebb32ed795f856"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:54.853Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:54.854Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:54.897Z","userId":"6afd51d6ccebb32ed795f857"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:54.954Z","userId":"6afd51d6ccebb32ed795f857"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:55.000Z","userId":"6afd51d6ccebb32ed795f857"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:55.001Z","userId":"6afd51d6ccebb32ed795f857"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:55.001Z","userId":"6afd51d6ccebb32ed795f857"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:55.001Z","userId":"6afd51d6ccebb32ed795f857"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:55.006Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:55.006Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:55.048Z","userId":"6afd51d6ccebb32ed795f858"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:55.107Z","userId":"6afd51d6ccebb32ed795f858"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:55.153Z","userId":"6afd51d6ccebb32ed795f858"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:55.153Z","userId":"6afd51d6ccebb32ed795f858"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:55.154Z","userId":"6afd51d6ccebb32ed795f858"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:55.154Z","userId":"6afd51d6ccebb32ed795f858"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:55.639Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:55.639Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:55.681Z","userId":"6afd51d7ccebb32ed795f859"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:55.744Z","userId":"6afd51d7ccebb32ed795f859"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:55.794Z","userId":"6afd51d7ccebb32ed795f859"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:55.795Z","userId":"6afd51d7ccebb32ed795f859"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:55.796Z","userId":"6afd51d7ccebb32ed795f859"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:55.796Z","userId":"6afd51d7ccebb32ed795f859"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:55.801Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:55.801Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:55.843Z","userId":"6afd51d7ccebb32ed795f85a"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:55.903Z","userId":"6afd51d7ccebb32ed795f85a"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:55.949Z","userId":"6afd51d7ccebb32ed795f85a"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:55.949Z","userId":"6afd51d7ccebb32ed795f85a"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:55.950Z","userId":"6afd51d7ccebb32ed795f85a"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:55.950Z","userId":"6afd51d7ccebb32ed795f85a"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:56.417Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:56.418Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:56.459Z","userId":"6afd51d8ccebb32ed795f85b"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:56.516Z","userId":"6afd51d8ccebb32ed795f85b"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:56.562Z","userId":"6afd51d8ccebb32ed795f85b"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:56.563Z","userId":"6afd51d8ccebb32ed795f85b"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:56.563Z","userId":"6afd51d8ccebb32ed795f85b"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:56.563Z","userId":"6afd51d8ccebb32ed795f85b"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:56.568Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:56.568Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:56.610Z","userId":"6afd51d8ccebb32ed795f85c"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:56.666Z","userId":"6afd51d8ccebb32ed795f85c"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:56.712Z","userId":"6afd51d8ccebb32ed795f85c"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:56.713Z","userId":"6afd51d8ccebb32ed795f85c"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:56.713Z","userId":"6afd51d8ccebb32ed795f85c"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:56.713Z","userId":"6afd51d8ccebb32ed795f85c"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:57.238Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:57.239Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:57.282Z","userId":"6afd51d9ccebb32ed795f85d"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:57.340Z","userId":"6afd51d9ccebb32ed795f85d"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:57.386Z","userId":"6afd51d9ccebb32ed795f85d"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:57.387Z","userId":"6afd51d9ccebb32ed795f85d"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:57.387Z","userId":"6afd51d9ccebb32ed795f85d"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:57.387Z","userId":"6afd51d9ccebb32ed795f85d"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:57.391Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:57.392Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:57.434Z","userId":"6afd51d9ccebb32ed795f85e"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:57.490Z","userId":"6afd51d9ccebb32ed795f85e"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:57.541Z","userId":"6afd51d9ccebb32ed795f85e"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:57.541Z","userId":"6afd51d9ccebb32ed795f85e"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:57.541Z","userId":"6afd51d9ccebb32ed795f85e"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:57.542Z","userId":"6afd51d9ccebb32ed795f85e"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:58.278Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:58.278Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:58.321Z","userId":"6afd51daccebb32ed795f85f"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:58.377Z","userId":"6afd51daccebb32ed795f85f"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:58.423Z","userId":"6afd51daccebb32ed795f85f"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:58.424Z","userId":"6afd51daccebb32ed795f85f"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:58.424Z","userId":"6afd51daccebb32ed795f85f"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:58.425Z","userId":"6afd51daccebb32ed795f85f"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:58.428Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:58.428Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:58.470Z","userId":"6afd51daccebb32ed795f860"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:58.531Z","userId":"6afd51daccebb32ed795f860"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:58.577Z","userId":"6afd51daccebb32ed795f860"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:58.577Z","userId":"6afd51daccebb32ed795f860"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:58.578Z","userId":"6afd51daccebb32ed795f860"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:58.578Z","userId":"6afd51daccebb32ed795f860"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:59.099Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:59.100Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:59.148Z","userId":"6afd51daccebb32ed795f861"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:59.207Z","userId":"6afd51daccebb32ed795f861"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:59.253Z","userId":"6afd51daccebb32ed795f861"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:59.254Z","userId":"6afd51daccebb32ed795f861"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:59.254Z","userId":"6afd51daccebb32ed795f861"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:59.255Z","userId":"6afd51daccebb32ed795f861"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:59.258Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:59.258Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:59.302Z","userId":"6afd51dbccebb32ed795f862"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:20:59.359Z","userId":"6afd51dbccebb32ed795f862"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:20:59.404Z","userId":"6afd51dbccebb32ed795f862"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:20:59.404Z","userId":"6afd51dbccebb32ed795f862"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:20:59.405Z","userId":"6afd51dbccebb32ed795f862"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:20:59.405Z","userId":"6afd51dbccebb32ed795f862"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:20:59.955Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:20:59.956Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:20:59.998Z","userId":"6afd51dbccebb32ed795f863"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:00.057Z","userId":"6afd51dbccebb32ed795f863"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:00.102Z","userId":"6afd51dbccebb32ed795f863"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:00.103Z","userId":"6afd51dbccebb32ed795f863"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:00.103Z","userId":"6afd51dbccebb32ed795f863"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:00.103Z","userId":"6afd51dbccebb32ed795f863"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:00.107Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:00.107Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:00.150Z","userId":"6afd51dbccebb32ed795f864"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:00.206Z","userId":"6afd51dbccebb32ed795f864"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:00.250Z","userId":"6afd51dbccebb32ed795f864"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:00.250Z","userId":"6afd51dbccebb32ed795f864"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:00.251Z","userId":"6afd51dbccebb32ed795f864"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:00.251Z","userId":"6afd51dbccebb32ed795f864"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:00.790Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:00.790Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:00.831Z","userId":"6afd51dcccebb32ed795f865"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:00.887Z","userId":"6afd51dcccebb32ed795f865"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:00.934Z","userId":"6afd51dcccebb32ed795f865"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:00.935Z","userId":"6afd51dcccebb32ed795f865"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:00.935Z","userId":"6afd51dcccebb32ed795f865"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:00.935Z","userId":"6afd51dcccebb32ed795f865"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:00.940Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:00.940Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:00.981Z","userId":"6afd51dcccebb32ed795f866"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:01.038Z","userId":"6afd51dcccebb32ed795f866"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:01.083Z","userId":"6afd51dcccebb32ed795f866"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:01.083Z","userId":"6afd51dcccebb32ed795f866"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:01.084Z","userId":"6afd51dcccebb32ed795f866"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:01.084Z","userId":"6afd51dcccebb32ed795f866"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:01.610Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:01.610Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:01.653Z","userId":"6afd51ddccebb32ed795f867"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:01.708Z","userId":"6afd51ddccebb32ed795f867"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:01.763Z","userId":"6afd51ddccebb32ed795f867"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:01.763Z","userId":"6afd51ddccebb32ed795f867"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:01.763Z","userId":"6afd51ddccebb32ed795f867"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:01.764Z","userId":"6afd51ddccebb32ed795f867"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:01.767Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:01.767Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:01.809Z","userId":"6afd51ddccebb32ed795f868"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:01.864Z","userId":"6afd51ddccebb32ed795f868"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:01.910Z","userId":"6afd51ddccebb32ed795f868"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:01.911Z","userId":"6afd51ddccebb32ed795f868"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:01.911Z","userId":"6afd51ddccebb32ed795f868"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:01.911Z","userId":"6afd51ddccebb32ed795f868"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:02.392Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:02.393Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:02.438Z","userId":"6afd51deccebb32ed795f869"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:02.508Z","userId":"6afd51deccebb32ed795f869"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:02.556Z","userId":"6afd51deccebb32ed795f869"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:02.557Z","userId":"6afd51deccebb32ed795f869"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:02.557Z","userId":"6afd51deccebb32ed795f869"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:02.557Z","userId":"6afd51deccebb32ed795f869"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:02.563Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:02.563Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:02.606Z","userId":"6afd51deccebb32ed795f86a"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:02.677Z","userId":"6afd51deccebb32ed795f86a"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:02.723Z","userId":"6afd51deccebb32ed795f86a"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:02.724Z","userId":"6afd51deccebb32ed795f86a"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:02.724Z","userId":"6afd51deccebb32ed795f86a"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:02.724Z","userId":"6afd51deccebb32ed795f86a"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:03.285Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:03.285Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:03.326Z","userId":"6afd51dfccebb32ed795f86b"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:03.385Z","userId":"6afd51dfccebb32ed795f86b"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:03.432Z","userId":"6afd51dfccebb32ed795f86b"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:03.433Z","userId":"6afd51dfccebb32ed795f86b"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:03.433Z","userId":"6afd51dfccebb32ed795f86b"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:03.433Z","userId":"6afd51dfccebb32ed795f86b"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:03.437Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:03.438Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:03.479Z","userId":"6afd51dfccebb32ed795f86c"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:03.541Z","userId":"6afd51dfccebb32ed795f86c"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:03.586Z","userId":"6afd51dfccebb32ed795f86c"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:03.587Z","userId":"6afd51dfccebb32ed795f86c"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:03.587Z","userId":"6afd51dfccebb32ed795f86c"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:03.587Z","userId":"6afd51dfccebb32ed795f86c"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:04.022Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:04.022Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:04.064Z","userId":"6afd51dfccebb32ed795f86d"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:04.126Z","userId":"6afd51dfccebb32ed795f86d"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:04.173Z","userId":"6afd51dfccebb32ed795f86d"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:04.174Z","userId":"6afd51dfccebb32ed795f86d"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:04.174Z","userId":"6afd51dfccebb32ed795f86d"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:04.174Z","userId":"6afd51dfccebb32ed795f86d"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:04.179Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:04.179Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:04.221Z","userId":"6afd51dfccebb32ed795f86e"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:04.276Z","userId":"6afd51dfccebb32ed795f86e"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:04.321Z","userId":"6afd51dfccebb32ed795f86e"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:04.322Z","userId":"6afd51dfccebb32ed795f86e"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:04.322Z","userId":"6afd51dfccebb32ed795f86e"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:04.322Z","userId":"6afd51dfccebb32ed795f86e"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:04.794Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:04.794Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:04.837Z","userId":"6afd51e0ccebb32ed795f870"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:04.893Z","userId":"6afd51e0ccebb32ed795f870"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:04.942Z","userId":"6afd51e0ccebb32ed795f870"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:04.943Z","userId":"6afd51e0ccebb32ed795f870"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:04.943Z","userId":"6afd51e0ccebb32ed795f870"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:04.943Z","userId":"6afd51e0ccebb32ed795f870"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:04.946Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:04.947Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:04.990Z","userId":"6afd51e0ccebb32ed795f871"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:05.044Z","userId":"6afd51e0ccebb32ed795f871"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:05.088Z","userId":"6afd51e0ccebb32ed795f871"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:05.089Z","userId":"6afd51e0ccebb32ed795f871"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:05.089Z","userId":"6afd51e0ccebb32ed795f871"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:05.089Z","userId":"6afd51e0ccebb32ed795f871"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:05.563Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:05.563Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:05.606Z","userId":"6afd51e1ccebb32ed795f873"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:05.672Z","userId":"6afd51e1ccebb32ed795f873"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:05.718Z","userId":"6afd51e1ccebb32ed795f873"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:05.718Z","userId":"6afd51e1ccebb32ed795f873"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:05.718Z","userId":"6afd51e1ccebb32ed795f873"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:05.718Z","userId":"6afd51e1ccebb32ed795f873"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:05.721Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:05.722Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:05.764Z","userId":"6afd51e1ccebb32ed795f874"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:05.825Z","userId":"6afd51e1ccebb32ed795f874"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:05.870Z","userId":"6afd51e1ccebb32ed795f874"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:05.871Z","userId":"6afd51e1ccebb32ed795f874"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:05.871Z","userId":"6afd51e1ccebb32ed795f874"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:05.871Z","userId":"6afd51e1ccebb32ed795f874"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:06.388Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:06.389Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:06.430Z","userId":"6afd51e2ccebb32ed795f876"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:06.487Z","userId":"6afd51e2ccebb32ed795f876"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:06.532Z","userId":"6afd51e2ccebb32ed795f876"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:06.532Z","userId":"6afd51e2ccebb32ed795f876"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:06.532Z","userId":"6afd51e2ccebb32ed795f876"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:06.532Z","userId":"6afd51e2ccebb32ed795f876"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:06.536Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:06.537Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:06.579Z","userId":"6afd51e2ccebb32ed795f877"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:06.633Z","userId":"6afd51e2ccebb32ed795f877"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:06.686Z","userId":"6afd51e2ccebb32ed795f877"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:06.686Z","userId":"6afd51e2ccebb32ed795f877"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:06.686Z","userId":"6afd51e2ccebb32ed795f877"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:06.687Z","userId":"6afd51e2ccebb32ed795f877"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:07.172Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:07.172Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:07.213Z","userId":"6afd51e2ccebb32ed795f879"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:07.273Z","userId":"6afd51e2ccebb32ed795f879"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:07.328Z","userId":"6afd51e2ccebb32ed795f879"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:07.329Z","userId":"6afd51e2ccebb32ed795f879"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:07.329Z","userId":"6afd51e2ccebb32ed795f879"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:07.329Z","userId":"6afd51e2ccebb32ed795f879"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:07.334Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:07.334Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:07.376Z","userId":"6afd51e3ccebb32ed795f87a"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:07.432Z","userId":"6afd51e3ccebb32ed795f87a"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:07.480Z","userId":"6afd51e3ccebb32ed795f87a"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:07.481Z","userId":"6afd51e3ccebb32ed795f87a"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:07.481Z","userId":"6afd51e3ccebb32ed795f87a"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:07.481Z","userId":"6afd51e3ccebb32ed795f87a"}
+{"email":"admin@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:07.951Z"}
+{"email":"admin@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:07.951Z"}
+{"email":"admin@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:07.992Z","userId":"6afd51e3ccebb32ed795f87c"}
+{"email":"admin@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:08.053Z","userId":"6afd51e3ccebb32ed795f87c"}
+{"email":"admin@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:08.098Z","userId":"6afd51e3ccebb32ed795f87c"}
+{"email":"admin@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:08.099Z","userId":"6afd51e3ccebb32ed795f87c"}
+{"email":"admin@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:08.099Z","userId":"6afd51e3ccebb32ed795f87c"}
+{"email":"admin@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:08.099Z","userId":"6afd51e3ccebb32ed795f87c"}
+{"email":"user@gmail.com","ip":"127.0.0.1","level":"info","message":"Login request received","service":"testing-service","timestamp":"2026-11-18T07:21:08.103Z"}
+{"email":"user@gmail.com","level":"info","message":"User login attempt started","service":"testing-service","timestamp":"2026-11-18T07:21:08.103Z"}
+{"email":"user@gmail.com","level":"info","message":"User found, checking password","service":"testing-service","timestamp":"2026-11-18T07:21:08.146Z","userId":"6afd51e3ccebb32ed795f87d"}
+{"email":"user@gmail.com","level":"info","message":"Password verified successfully","service":"testing-service","timestamp":"2026-11-18T07:21:08.202Z","userId":"6afd51e3ccebb32ed795f87d"}
+{"email":"user@gmail.com","level":"info","message":"User login successful","service":"testing-service","timestamp":"2026-11-18T07:21:08.248Z","userId":"6afd51e3ccebb32ed795f87d"}
+{"email":"user@gmail.com","level":"info","message":"Login service completed successfully","service":"testing-service","timestamp":"2026-11-18T07:21:08.249Z","userId":"6afd51e3ccebb32ed795f87d"}
+{"email":"user@gmail.com","level":"info","message":"Refresh token cookie set successfully","service":"testing-service","timestamp":"2026-11-18T07:21:08.249Z","userId":"6afd51e3ccebb32ed795f87d"}
+{"email":"user@gmail.com","level":"info","message":"Login response sent successfully","service":"testing-service","timestamp":"2026-11-18T07:21:08.249Z","userId":"6afd51e3ccebb32ed795f87d"}

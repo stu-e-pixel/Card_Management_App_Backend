@@ -9,9 +9,9 @@ const startserver = async () => {
   await redis.ping();
   
 
-  app.listen(port, () => {
-    console.log(`run this application is in ${port} port`);
-  });
+  // app.listen(port, () => {
+  //   console.log(`run this application is in ${port} port`);
+  // });
 };
 
 startserver();
