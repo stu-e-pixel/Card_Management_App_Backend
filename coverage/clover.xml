@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1795013538165" clover="3.2.0">
-  <project timestamp="1795013538165" name="All files">
-    <metrics statements="706" coveredstatements="479" conditionals="213" coveredconditionals="88" methods="54" coveredmethods="41" elements="973" coveredelements="608" complexity="0" loc="706" ncloc="706" packages="11" files="28" classes="28"/>
+<coverage generated="1795023816436" clover="3.2.0">
+  <project timestamp="1795023816436" name="All files">
+    <metrics statements="707" coveredstatements="475" conditionals="215" coveredconditionals="86" methods="54" coveredmethods="41" elements="976" coveredelements="602" complexity="0" loc="707" ncloc="707" packages="11" files="28" classes="28"/>
     <package name="src">
       <metrics statements="27" coveredstatements="27" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       <file name="app.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\app.js">
@@ -36,7 +36,7 @@
       </file>
     </package>
     <package name="src.config">
-      <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <metrics statements="15" coveredstatements="14" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1"/>
       <file name="cloudinary.config.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\config\cloudinary.config.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="2" type="stmt"/>
@@ -44,20 +44,21 @@
         <line num="9" count="2" type="stmt"/>
       </file>
       <file name="email.config.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\config\email.config.js">
-        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="2" type="stmt"/>
-        <line num="2" count="2" type="stmt"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="15" count="2" type="stmt"/>
-      </file>
-      <file name="redis.config.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\config\redis.config.js">
-        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="2" type="stmt"/>
         <line num="3" count="2" type="stmt"/>
-        <line num="8" count="2" type="stmt"/>
-        <line num="11" count="2" type="stmt"/>
-        <line num="12" count="2" type="stmt"/>
         <line num="13" count="2" type="stmt"/>
+      </file>
+      <file name="redis.config.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\config\redis.config.js">
+        <metrics statements="9" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
         <line num="18" count="2" type="stmt"/>
       </file>
     </package>
@@ -70,9 +71,9 @@
       </file>
     </package>
     <package name="src.controller.Apis">
-      <metrics statements="417" coveredstatements="236" conditionals="176" coveredconditionals="72" methods="25" coveredmethods="18"/>
+      <metrics statements="417" coveredstatements="235" conditionals="176" coveredconditionals="72" methods="25" coveredmethods="18"/>
       <file name="AuthController.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\controller\Apis\AuthController.js">
-        <metrics statements="302" coveredstatements="151" conditionals="128" coveredconditionals="47" methods="16" coveredmethods="11"/>
+        <metrics statements="302" coveredstatements="150" conditionals="128" coveredconditionals="47" methods="16" coveredmethods="11"/>
         <line num="1" count="2" type="stmt"/>
         <line num="2" count="2" type="stmt"/>
         <line num="3" count="2" type="stmt"/>
@@ -354,7 +355,7 @@
         <line num="975" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="976" count="1" type="stmt"/>
         <line num="977" count="1" type="stmt"/>
-        <line num="979" count="1" type="stmt"/>
+        <line num="979" count="0" type="stmt"/>
         <line num="983" count="1" type="stmt"/>
         <line num="989" count="0" type="stmt"/>
         <line num="991" count="0" type="stmt"/>
@@ -718,7 +719,7 @@
       </file>
     </package>
     <package name="src.utils">
-      <metrics statements="57" coveredstatements="44" conditionals="9" coveredconditionals="5" methods="8" coveredmethods="6"/>
+      <metrics statements="57" coveredstatements="41" conditionals="9" coveredconditionals="2" methods="8" coveredmethods="6"/>
       <file name="RateLimit.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\utils\RateLimit.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="2" type="stmt"/>
@@ -754,40 +755,40 @@
         <line num="18" count="2" type="stmt"/>
       </file>
       <file name="redisCache.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\utils\redisCache.js">
-        <metrics statements="33" coveredstatements="21" conditionals="7" coveredconditionals="4" methods="4" coveredmethods="3"/>
+        <metrics statements="33" coveredstatements="18" conditionals="7" coveredconditionals="1" methods="4" coveredmethods="3"/>
         <line num="1" count="2" type="stmt"/>
         <line num="3" count="2" type="stmt"/>
         <line num="4" count="3" type="stmt"/>
         <line num="5" count="3" type="stmt"/>
-        <line num="6" count="3" type="cond" truecount="1" falsecount="1"/>
-        <line num="7" count="0" type="stmt"/>
+        <line num="7" count="3" type="cond" truecount="1" falsecount="1"/>
         <line num="9" count="0" type="stmt"/>
-        <line num="10" count="0" type="stmt"/>
-        <line num="14" count="2" type="cond" truecount="0" falsecount="1"/>
-        <line num="15" count="3" type="stmt"/>
-        <line num="16" count="3" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="16" count="2" type="cond" truecount="0" falsecount="1"/>
         <line num="17" count="3" type="stmt"/>
-        <line num="19" count="0" type="stmt"/>
-        <line num="20" count="0" type="stmt"/>
-        <line num="25" count="2" type="stmt"/>
-        <line num="26" count="0" type="stmt"/>
-        <line num="27" count="0" type="stmt"/>
-        <line num="28" count="0" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
         <line num="30" count="0" type="stmt"/>
         <line num="31" count="0" type="stmt"/>
-        <line num="36" count="2" type="stmt"/>
-        <line num="37" count="11" type="stmt"/>
-        <line num="38" count="11" type="stmt"/>
-        <line num="39" count="11" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
         <line num="40" count="11" type="stmt"/>
-        <line num="45" count="11" type="stmt"/>
-        <line num="46" count="11" type="cond" truecount="1" falsecount="1"/>
-        <line num="47" count="11" type="cond" truecount="2" falsecount="0"/>
-        <line num="48" count="2" type="stmt"/>
-        <line num="51" count="11" type="stmt"/>
-        <line num="53" count="0" type="stmt"/>
+        <line num="41" count="11" type="stmt"/>
+        <line num="43" count="11" type="stmt"/>
+        <line num="44" count="11" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="51" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="53" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="54" count="0" type="stmt"/>
-        <line num="58" count="2" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="60" count="11" type="stmt"/>
+        <line num="61" count="11" type="stmt"/>
+        <line num="65" count="2" type="stmt"/>
       </file>
       <file name="statuscode.js" path="C:\Users\araki\OneDrive\Desktop\node_js\Card_Management_App_backend\src\utils\statuscode.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>

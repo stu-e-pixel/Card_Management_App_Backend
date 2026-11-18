@@ -1,12 +1,17 @@
+require("dotenv").config({ quiet: true });
 
 const mongoose = require("mongoose");
+
+const {
+    client: redisClient,
+    connectRedis,
+} = require("../config/redis.config");
 
 // Mock email utility before application modules are imported.
 jest.mock("../utils/sendEmailOtp", () =>
     jest.fn().mockResolvedValue(true)
 );
 
-// Connect to the test database before each test file.
 beforeAll(async () => {
     if (!process.env.MONGODB_TEST_URI) {
         throw new Error("MONGODB_TEST_URI is not configured");
@@ -19,12 +24,23 @@ beforeAll(async () => {
 
         console.log("Test MongoDB connected successfully");
     }
-}, 20000);
 
-// Close the database connection after each test file.
+    await connectRedis();
+    console.log("Test Redis connected successfully");
+}, 30000);
+
 afterAll(async () => {
-    if (mongoose.connection.readyState !== 0) {
-        await mongoose.connection.close();
-        console.log("Test MongoDB connection closed");
+    try {
+        if (mongoose.connection.readyState !== 0) {
+            await mongoose.connection.close();
+            console.log("Test MongoDB connection closed");
+        }
+
+        if (redisClient.isOpen) {
+            await redisClient.quit();
+            console.log("Test Redis connection closed");
+        }
+    } catch (error) {
+        console.error("Test cleanup error:", error);
     }
 });
