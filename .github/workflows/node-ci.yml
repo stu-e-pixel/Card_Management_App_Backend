@@ -13,15 +13,14 @@ on:
       - development
 
 jobs:
-
-  
-
+  # ==========================================
+  # JOB 1: TEST
+  # ==========================================
   test:
-    name: nodejs cicd Project
+    name: Run Tests
     runs-on: ubuntu-latest
     timeout-minutes: 15
 
-    
     services:
       redis:
         image: redis:7-alpine
@@ -33,14 +32,21 @@ jobs:
           --health-timeout 5s
           --health-retries 5
 
-   
     env:
       NODE_ENV: test
-      REDIS_URL: redis://localhost:6379
+
+      REDIS_URL: redis://127.0.0.1:6379
+
       MONGODB_TEST_URI: ${{ secrets.MONGODB_TEST_URI }}
 
-    steps:
+      # IMPORTANT:
+      # These names must match process.env names
+      # used inside your JWT utility.
+      JWT_SECRET_KEY: ${{ secrets.JWT_SECRET_KEY }}
+      JWT_ACCESS_SECRET: ${{ secrets.JWT_ACCESS_SECRET }}
+      JWT_REFRESH_SECRET: ${{ secrets.JWT_REFRESH_SECRET }}
 
+    steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
@@ -52,6 +58,26 @@ jobs:
 
       - name: Install Dependencies
         run: npm ci
+
+      - name: Check Environment Variables
+        run: |
+          node -e "
+          const required = [
+            'MONGODB_TEST_URI',
+            'JWT_SECRET_KEY',
+            'JWT_ACCESS_SECRET',
+            'JWT_REFRESH_SECRET'
+          ];
+
+          const missing = required.filter(key => !process.env[key]);
+
+          if (missing.length) {
+            console.error('Missing environment variables:', missing.join(', '));
+            process.exit(1);
+          }
+
+          console.log('Required environment variables are configured.');
+          "
 
       - name: Run Jest Tests and Coverage
         run: npm run test:coverage -- --runInBand
@@ -65,7 +91,9 @@ jobs:
           if-no-files-found: ignore
           retention-days: 7
 
-
+  # ==========================================
+  # JOB 2: BUILD
+  # ==========================================
   build:
     name: Build Project
     needs: test
@@ -73,7 +101,6 @@ jobs:
     timeout-minutes: 15
 
     steps:
-
       - name: Checkout Repository
         uses: actions/checkout@v4
 
@@ -92,16 +119,16 @@ jobs:
       - name: Build Successful
         run: echo "Build completed successfully."
 
-
-  
-
+  # ==========================================
+  # JOB 3: DEPLOYMENT STATUS
+  # ==========================================
   deploy:
-    name: Ready for Deployment
+    name: Deployment Status
     needs: build
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-
       - name: Deployment Status
         run: |
           echo "===================================="
@@ -109,5 +136,5 @@ jobs:
           echo "Tests Passed"
           echo "Build Successful"
           echo "Ready for Deployment"
-          echo "Branch : ${{ github.ref_name }}"
+          echo "Branch: ${{ github.ref_name }}"
           echo "===================================="
