@@ -8,9 +8,9 @@ const {
 } = require("../config/redis.config");
 
 // Mock email utility before application modules are imported.
-jest.mock("../utils/sendEmailOtp", () =>
-    jest.fn().mockResolvedValue(true)
-);
+// jest.mock("../utils/sendEmailOtp", () =>
+//     jest.fn().mockResolvedValue(true)
+// );
 
 beforeAll(async () => {
     if (!process.env.MONGODB_TEST_URI) {

@@ -2,9 +2,16 @@ const transport = require('../config/email.config')
 const OtpModel = require("../model/otp")
 
 const sendEmailOtp = async(req,user)=>{
+    console.log("🔥 sendEmailOtp FUNCTION STARTED");
     const otp = Math.floor(100000 + Math.random()*900000)
     const otpdata = await new OtpModel({userId:user._id,otp:otp})
     await otpdata.save()
+
+    console.log("OTP SAVED SUCCESSFULLY");
+    console.log("OTP ID:", otpdata._id);
+    console.log("OTP User ID:", otpdata.userId);
+    console.log("OTP Value:", otpdata.otp);
+    console.log("OTP Created At:", otpdata.createdAt);
 
     await transport.sendMail({
         from:process.env.EMAIL_FROM,

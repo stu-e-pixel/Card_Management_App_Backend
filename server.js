@@ -18,9 +18,9 @@ const startServer = async () => {
 
         await redisClient.ping();
 
-        app.listen(port, () => {
-            console.log(`Application is running on port ${port}`);
-        });
+        // app.listen(port, () => {
+        //     console.log(`Application is running on port ${port}`);
+        // });
     } catch (error) {
         console.error("Server startup failed:", error);
         process.exit(1);

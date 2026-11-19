@@ -3,6 +3,9 @@ const cloudinary = require("../../config/cloudinary.config");
 const statuscode = require("../../utils/statuscode");
 const bcryptjs = require("bcryptjs");
 const sendEmailOtp = require("../../utils/sendEmailOtp");
+
+console.log("LOADED OTP HELPER:", require.resolve("../../utils/sendEmailOtp"));
+console.log("OTP HELPER FUNCTION:", sendEmailOtp.toString());
 const logger = require("../../utils/logger");
 const AuthService = require("../../services/authService");
 const OtpModel = require("../../model/otp");
@@ -69,6 +72,8 @@ class AuthController {
 
       const existingUser = await User.findOne({ email });
 
+      
+
       if (!existingUser) {
         return res.status(statuscode.NOT_FOUND).json({
           status: false,
@@ -83,14 +88,30 @@ class AuthController {
         });
       }
 
-      const emailVerification = await OtpModel.findOne({
+      console.log("VERIFY EMAIL:", email);
+      console.log("VERIFY USER ID:", existingUser._id);
+      console.log("VERIFY OTP:", otp);
+
+      const allUserOtps = await OtpModel.find({
         userId: existingUser.id,
-        otp,
       });
 
+      console.log("ALL OTPs FOR THIS USER:", allUserOtps);
+
+      console.log("VERIFY API CALLED");
+
+      const emailVerification = await OtpModel.findOne({
+        userId: existingUser.id,
+        otp: String(otp),
+      });
+
+      console.log("OTP SEARCH RESULT:", emailVerification);
+
       if (!emailVerification) {
+        console.log("INVALID OTP - CALLING sendEmailOtp");
         if (!existingUser.is_Verified) {
           await sendEmailOtp(req, existingUser);
+          console.log("sendEmailOtp FUNCTION COMPLETED");
           return res.status(statuscode.NOT_FOUND).json({
             status: false,
             message: "Otp is expire send new otp in your email",
@@ -102,7 +123,9 @@ class AuthController {
       const expireTime =
         new Date(emailVerification.createdAt).getTime() + 15 * 60 * 1000;
       if (currentTime > expireTime) {
+        console.log("EXPIRED OTP - CALLING sendEmailOtp");
         await sendEmailOtp(req, existingUser);
+        console.log("sendEmailOtp FUNCTION COMPLETED");
         return res.status(statuscode.NOT_FOUND).json({
           status: false,
           message: "Otp is expire send new otp in your email",
@@ -291,8 +314,6 @@ class AuthController {
 
       user.secretKey = null;
 
-
-
       await user.save();
 
       res.clearCookie("accessToken", {
@@ -410,123 +431,117 @@ class AuthController {
   }
 
   async getAllUsers(req, res) {
-  try {
-    const { name, email } = req.query;
+    try {
+      const { name, email } = req.query;
 
-    const page = Math.max(1, Number(req.query.page) || 1);
-    const limit = Math.min(100, Math.max(1, Number(req.query.limit) || 5));
+      const page = Math.max(1, Number(req.query.page) || 1);
+      const limit = Math.min(100, Math.max(1, Number(req.query.limit) || 5));
 
-    const skip = (page - 1) * limit;
-    const query = {
-      is_Deleted: false,
-      role: "user",
-    };
+      const skip = (page - 1) * limit;
+      const query = {
+        is_Deleted: false,
+        role: "user",
+      };
 
-    if (name) {
-      query.name = { $regex: name, $options: "i" };
-    }
+      if (name) {
+        query.name = { $regex: name, $options: "i" };
+      }
 
-    if (email) {
-      query.email = { $regex: email, $options: "i" };
-    }
+      if (email) {
+        query.email = { $regex: email, $options: "i" };
+      }
 
-   
-    const cacheKey = `User:list:${JSON.stringify({
-      name,
-      email,
-      page,
-      limit,
-    })}`;
+      const cacheKey = `User:list:${JSON.stringify({
+        name,
+        email,
+        page,
+        limit,
+      })}`;
 
-    const cachedData = await getUserCache(cacheKey);
+      const cachedData = await getUserCache(cacheKey);
 
-    if (cachedData) {
-      return res.status(200).json({
-        status: true,
-        source: "redis",
-        ...cachedData,
-      });
-    }
+      if (cachedData) {
+        return res.status(200).json({
+          status: true,
+          source: "redis",
+          ...cachedData,
+        });
+      }
 
-   
-    const secretKey = req.headers["x-secret-key"];
+      const secretKey = req.headers["x-secret-key"];
 
-    if (!secretKey) {
-      return res.status(statuscode.NOT_FOUND).json({
-        status: false,
-        message: "secretkey is required",
-      });
-    }
+      if (!secretKey) {
+        return res.status(statuscode.NOT_FOUND).json({
+          status: false,
+          message: "secretkey is required",
+        });
+      }
 
-    if (secretKey !== req.user.secretKey) {
-      return res.status(statuscode.NOT_FOUND).json({
-        status: false,
-        message: "Your Secret key is not valid",
-      });
-    }
+      if (secretKey !== req.user.secretKey) {
+        return res.status(statuscode.NOT_FOUND).json({
+          status: false,
+          message: "Your Secret key is not valid",
+        });
+      }
 
-    
-    const pipeline = [
-      {
-        $match: query,
-      },
-      {
-        $facet: {
-          data: [
-            {
-              $sort: { createdAt: -1 },
-            },
-            {
-              $skip: skip,
-            },
-            {
-              $limit: limit,
-            },
-          ],
-          total: [
-            {
-              $count: "totalUsers",
-            },
-          ],
+      const pipeline = [
+        {
+          $match: query,
         },
-      },
-    ];
+        {
+          $facet: {
+            data: [
+              {
+                $sort: { createdAt: -1 },
+              },
+              {
+                $skip: skip,
+              },
+              {
+                $limit: limit,
+              },
+            ],
+            total: [
+              {
+                $count: "totalUsers",
+              },
+            ],
+          },
+        },
+      ];
 
-    
-    const result = await User.aggregate(pipeline);
+      const result = await User.aggregate(pipeline);
 
-    const userData = result[0].data;
-    const totalUsers = result[0].total[0]?.totalUsers || 0;
+      const userData = result[0].data;
+      const totalUsers = result[0].total[0]?.totalUsers || 0;
 
-    
-    const responseData = {
-      count: userData.length,
-      totalUsers,
-      currentPage: page,
-      totalPages: Math.ceil(totalUsers / limit),
-      data: userData,
-    };
+      const responseData = {
+        count: userData.length,
+        totalUsers,
+        currentPage: page,
+        totalPages: Math.ceil(totalUsers / limit),
+        data: userData,
+      };
 
-   
-    await setUserCache(cacheKey, responseData, 300);
+      await setUserCache(cacheKey, responseData, 300);
 
-    return res.status(statuscode.OK).json({
-      status: true,
-      source: "mongodb",
-      ...responseData,
-    });
-  } catch (error) {
-    logger.error("Get all users failed", {
-      message: error.message,
-      stack: error.stack,
-    });
+      return res.status(statuscode.OK).json({
+        status: true,
+        source: "mongodb",
+        ...responseData,
+      });
+    } catch (error) {
+      logger.error("Get all users failed", {
+        message: error.message,
+        stack: error.stack,
+      });
 
-    return res.status(statuscode.SERVER_ERROR).json({
-      status: false,
-      message: error.message,
-    });
+      return res.status(statuscode.SERVER_ERROR).json({
+        status: false,
+        message: error.message,
+      });
+    }
   }
-}
 
   async resetPasswordLink(req, res) {
     try {
@@ -940,60 +955,59 @@ class AuthController {
   }
 
   async forceDeleteUser(req, res) {
-  try {
-    const { id } = req.params;
-    const secretkey = req.headers["x-secret-key"];
-
-    if (!secretkey) {
-      return res.status(statuscode.BAD_REQUEST).json({
-        status: false,
-        message: "Secret key is required",
-      });
-    }
-
-    if (secretkey !== req.user.secretKey) {
-      return res.status(statuscode.UNAUTHORIZED).json({
-        status: false,
-        message: "Please provide a valid secret key",
-      });
-    }
-    const userdata = await User.findByIdAndDelete(id);
-
-    if (!userdata) {
-      return res.status(statuscode.NOT_FOUND).json({
-        status: false,
-        message: "User not found",
-      });
-    }
     try {
-      await deleteUserCache();
-    } catch (cacheError) {
-      console.error("Cache deletion failed:", cacheError);
-    }
+      const { id } = req.params;
+      const secretkey = req.headers["x-secret-key"];
 
-    // Cloudinary cleanup
-    if (userdata.public_id) {
-      try {
-        await cloudinary.uploader.destroy(userdata.public_id);
-      } catch (cloudinaryError) {
-        console.error("Cloudinary deletion failed:", cloudinaryError);
+      if (!secretkey) {
+        return res.status(statuscode.BAD_REQUEST).json({
+          status: false,
+          message: "Secret key is required",
+        });
       }
+
+      if (secretkey !== req.user.secretKey) {
+        return res.status(statuscode.UNAUTHORIZED).json({
+          status: false,
+          message: "Please provide a valid secret key",
+        });
+      }
+      const userdata = await User.findByIdAndDelete(id);
+
+      if (!userdata) {
+        return res.status(statuscode.NOT_FOUND).json({
+          status: false,
+          message: "User not found",
+        });
+      }
+      try {
+        await deleteUserCache();
+      } catch (cacheError) {
+        console.error("Cache deletion failed:", cacheError);
+      }
+
+      // Cloudinary cleanup
+      if (userdata.public_id) {
+        try {
+          await cloudinary.uploader.destroy(userdata.public_id);
+        } catch (cloudinaryError) {
+          console.error("Cloudinary deletion failed:", cloudinaryError);
+        }
+      }
+
+      return res.status(statuscode.OK).json({
+        status: true,
+        message: "User deleted succefully",
+      });
+    } catch (error) {
+      console.error("Force Delete Controller Error:", error);
+
+      return res.status(statuscode.SERVER_ERROR).json({
+        status: false,
+        message: error.message,
+      });
     }
-
-    return res.status(statuscode.OK).json({
-      status: true,
-      message: "User deleted succefully",
-    });
-
-  } catch (error) {
-    console.error("Force Delete Controller Error:", error);
-
-    return res.status(statuscode.SERVER_ERROR).json({
-      status: false,
-      message: error.message,
-    });
   }
-}
 
   async updateUserStatus(req, res) {
     try {

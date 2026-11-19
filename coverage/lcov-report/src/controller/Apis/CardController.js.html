@@ -23,16 +23,16 @@
         <div class='clearfix'>
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">73.91% </span>
+                <span class="strong">68.69% </span>
                 <span class="quiet">Statements</span>
-                <span class='fraction'>85/115</span>
+                <span class='fraction'>79/115</span>
             </div>
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">52.08% </span>
+                <span class="strong">50% </span>
                 <span class="quiet">Branches</span>
-                <span class='fraction'>25/48</span>
+                <span class='fraction'>24/48</span>
             </div>
         
             
@@ -44,9 +44,9 @@
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">73.91% </span>
+                <span class="strong">68.69% </span>
                 <span class="quiet">Lines</span>
-                <span class='fraction'>85/115</span>
+                <span class='fraction'>79/115</span>
             </div>
         
             
@@ -707,6 +707,14 @@
 <span class="cline-any cline-yes">1x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -715,7 +723,6 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">1x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -735,20 +742,13 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">1x</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">1x</span>
-<span class="cline-any cline-yes">1x</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -757,9 +757,9 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -1194,8 +1194,8 @@ async getCard(req, res) {
 &nbsp;
     const cachedData = await getCardCache(cacheKey);
 &nbsp;
-    <span class="missing-if-branch" title="if path not taken" >I</span>if (cachedData) {
-<span class="cstat-no" title="statement not covered" >      return res.status(200).json({</span>
+    <span class="missing-if-branch" title="else path not taken" >E</span>if (cachedData) {
+      return res.status(200).json({
         status: true,
         source: "redis",
         ...cachedData,
@@ -1203,7 +1203,7 @@ async getCard(req, res) {
     }
 &nbsp;
    
-    const pipeline = [
+    const pipeline = <span class="cstat-no" title="statement not covered" >[</span>
       {
         $match: matchQuery,
       },
@@ -1230,13 +1230,13 @@ async getCard(req, res) {
     ];
 &nbsp;
     
-    const result = await Card.aggregate(pipeline);
+    const result = <span class="cstat-no" title="statement not covered" >await Card.aggregate(pipeline);</span>
 &nbsp;
-    const cardData = result[0].data;
-    const totalCards = result[0].total[0]?.totalCards || <span class="branch-1 cbranch-no" title="branch not covered" >0;</span>
+    const cardData = <span class="cstat-no" title="statement not covered" >result[0].data;</span>
+    const totalCards = <span class="cstat-no" title="statement not covered" >result[0].total[0]?.totalCards || 0;</span>
 &nbsp;
     
-    const responseData = {
+    const responseData = <span class="cstat-no" title="statement not covered" >{</span>
       count: cardData.length,
       totalCards,
       currentPage: page,
@@ -1245,9 +1245,9 @@ async getCard(req, res) {
     };
 &nbsp;
     
-    await setCardCache(cacheKey, responseData, 300);
+<span class="cstat-no" title="statement not covered" >    await setCardCache(cacheKey, responseData, 300);</span>
 &nbsp;
-    return res.status(200).json({
+<span class="cstat-no" title="statement not covered" >    return res.status(200).json({</span>
       status: true,
       source: "mongodb",
       ...responseData,
@@ -1534,7 +1534,7 @@ module.exports = new CardController();
             <div class='footer quiet pad2 space-top1 center small'>
                 Code coverage generated by
                 <a href="https://istanbul.js.org/" target="_blank" rel="noopener noreferrer">istanbul</a>
-                at 2026-11-18T17:43:36.347Z
+                at 2026-11-19T13:16:00.274Z
             </div>
         <script src="../../../prettify.js"></script>
         <script>
